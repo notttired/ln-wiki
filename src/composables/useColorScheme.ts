@@ -1,7 +1,6 @@
 import { ref, watchEffect } from 'vue'
 
 const STORAGE_KEY = 'color-scheme'
-const systemDark = window.matchMedia('(prefers-color-scheme: dark)')
 
 function getInitial(): 'light' | 'dark' {
   const stored = localStorage.getItem(STORAGE_KEY)

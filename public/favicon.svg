@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
-  <path d="M4 10 C4 8 6 7 8 7 L23 7 L23 40 L8 40 C6 40 4 39 4 37 Z" fill="#6b21a8"/>
-  <path d="M44 10 C44 8 42 7 40 7 L25 7 L25 40 L40 40 C42 40 44 39 44 37 Z" fill="#7c3aed"/>
-  <rect x="22" y="6" width="4" height="35" fill="#4c1d95"/>
-  <line x1="9" y1="15" x2="20" y2="15" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
-  <line x1="9" y1="20" x2="20" y2="20" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
-  <line x1="9" y1="25" x2="20" y2="25" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
-  <line x1="28" y1="15" x2="39" y2="15" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
-  <line x1="28" y1="20" x2="39" y2="20" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
-  <line x1="28" y1="25" x2="39" y2="25" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M4 10 C4 8 6 7 8 7 L23 7 L23 40 L8 40 C6 40 4 39 4 37 Z" fill="#8a6a48"/>
+  <path d="M44 10 C44 8 42 7 40 7 L25 7 L25 40 L40 40 C42 40 44 39 44 37 Z" fill="#b08860"/>
+  <rect x="22" y="6" width="4" height="35" fill="#5a3e28"/>
+  <line x1="9" y1="15" x2="20" y2="15" stroke="#faf7f2" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="9" y1="21" x2="20" y2="21" stroke="#faf7f2" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="9" y1="27" x2="20" y2="27" stroke="#faf7f2" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="28" y1="15" x2="39" y2="15" stroke="#faf7f2" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="28" y1="21" x2="39" y2="21" stroke="#faf7f2" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="28" y1="27" x2="39" y2="27" stroke="#faf7f2" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
 </svg>
