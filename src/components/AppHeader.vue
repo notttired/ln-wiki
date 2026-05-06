@@ -27,7 +27,7 @@ defineEmits<{ 'toggle-sidebar': [] }>()
   align-items: center;
   gap: 0.75rem;
   padding: 0 1rem;
-  background: var(--bg);
+  background: var(--bg-2);
   border-bottom: 1px solid var(--border);
   grid-column: 1 / -1;
 }

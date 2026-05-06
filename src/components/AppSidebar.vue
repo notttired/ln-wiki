@@ -51,7 +51,7 @@ defineEmits<{ close: [] }>()
   border-right: 1px solid var(--border);
   display: flex;
   flex-direction: column;
-  background: var(--bg);
+  background: var(--bg-2);
   scrollbar-width: thin;
   scrollbar-color: var(--border) transparent;
 }
@@ -60,7 +60,7 @@ defineEmits<{ close: [] }>()
   padding: 0.75rem 0.75rem 0.5rem;
   position: sticky;
   top: 0;
-  background: var(--bg);
+  background: var(--bg-2);
   z-index: 1;
   border-bottom: 1px solid var(--border);
 }

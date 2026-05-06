@@ -2,11 +2,15 @@
 import { ref, watch, onMounted } from 'vue'
 import { markdownModules, routeParamToGlobKey } from '@/composables/useWikiIndex'
 import { renderMarkdown } from '@/composables/useMarkdown'
+import { parseInfoTable } from '@/utils/parseInfoTable'
+import type { InfoRow } from '@/utils/parseInfoTable'
 import ArticleRenderer from '@/components/ArticleRenderer.vue'
+import InfoCard from '@/components/InfoCard.vue'
 
 const props = defineProps<{ articlePath: string | string[] }>()
 
 const html = ref<string | null>(null)
+const infoRows = ref<InfoRow[]>([])
 const loading = ref(false)
 const notFound = ref(false)
 
@@ -14,6 +18,7 @@ async function loadArticle(articlePath: string | string[]) {
   loading.value = true
   notFound.value = false
   html.value = null
+  infoRows.value = []
 
   const globKey = routeParamToGlobKey(articlePath)
   const loader = markdownModules[globKey]
@@ -26,7 +31,11 @@ async function loadArticle(articlePath: string | string[]) {
 
   try {
     const raw = await loader()
-    html.value = renderMarkdown(raw)
+    const parsed = parseInfoTable(raw)
+    infoRows.value = parsed?.rows ?? []
+    const body = parsed?.strippedMarkdown ?? raw
+    html.value = renderMarkdown(body)
+
     const pathStr = Array.isArray(articlePath) ? articlePath.join('/') : articlePath
     const title = decodeURIComponent(pathStr.split('/').pop() ?? '')
     document.title = title + ' — ln-wiki'
@@ -52,13 +61,21 @@ watch(() => props.articlePath, (val) => loadArticle(val))
     <div v-else-if="notFound" class="not-found">
       <p>Article not found.</p>
     </div>
-    <ArticleRenderer v-else-if="html" :html="html" />
+    <div v-else-if="html" class="article-layout">
+      <ArticleRenderer :html="html" />
+      <InfoCard v-if="infoRows.length" :rows="infoRows" />
+    </div>
   </div>
 </template>
 
 <style scoped>
 .article-view {
   min-height: 60vh;
+}
+
+.article-layout {
+  display: flex;
+  align-items: flex-start;
 }
 
 .not-found {
@@ -72,7 +89,6 @@ watch(() => props.articlePath, (val) => loadArticle(val))
 }
 
 .skeleton {
-  background: var(--border);
   border-radius: 4px;
   margin-bottom: 0.75rem;
   animation: shimmer 1.4s ease-in-out infinite;
@@ -98,5 +114,11 @@ watch(() => props.articlePath, (val) => loadArticle(val))
 @keyframes shimmer {
   0% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
+}
+
+@media (max-width: 900px) {
+  .article-layout {
+    flex-direction: column-reverse;
+  }
 }
 </style>
