@@ -1,7 +1,10 @@
 <script setup lang="ts">
 import { RouterLink } from 'vue-router'
+import { useColorScheme } from '../composables/useColorScheme'
 
 defineEmits<{ 'toggle-sidebar': [] }>()
+
+const { scheme, toggle } = useColorScheme()
 </script>
 
 <template>
@@ -14,6 +17,22 @@ defineEmits<{ 'toggle-sidebar': [] }>()
       </svg>
     </button>
     <RouterLink to="/" class="site-title">ln-wiki</RouterLink>
+    <button class="theme-btn" :aria-label="scheme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'" @click="toggle">
+      <svg v-if="scheme === 'dark'" width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <circle cx="8" cy="8" r="3.5" fill="currentColor" />
+        <line x1="8" y1="1" x2="8" y2="2.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="8" y1="13.5" x2="8" y2="15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="1" y1="8" x2="2.5" y2="8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="13.5" y1="8" x2="15" y2="8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="3.05" y1="3.05" x2="4.11" y2="4.11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="11.89" y1="11.89" x2="12.95" y2="12.95" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="12.95" y1="3.05" x2="11.89" y2="4.11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        <line x1="4.11" y1="11.89" x2="3.05" y2="12.95" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+      </svg>
+      <svg v-else width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M13.5 9.5A6 6 0 0 1 6.5 2.5a6 6 0 1 0 7 7z" fill="currentColor" />
+      </svg>
+    </button>
   </header>
 </template>
 
@@ -56,6 +75,22 @@ defineEmits<{ 'toggle-sidebar': [] }>()
 }
 
 .menu-btn:hover {
+  color: var(--text-h);
+  background: var(--code-bg);
+}
+
+.theme-btn {
+  margin-left: auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text);
+  padding: 4px;
+  border-radius: 4px;
+  line-height: 0;
+}
+
+.theme-btn:hover {
   color: var(--text-h);
   background: var(--code-bg);
 }

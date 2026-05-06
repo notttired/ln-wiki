@@ -4,8 +4,10 @@ import { RouterView } from 'vue-router'
 import AppHeader from './components/AppHeader.vue'
 import AppSidebar from './components/AppSidebar.vue'
 import { wikiIndex } from './composables/useWikiIndex'
+import { useColorScheme } from './composables/useColorScheme'
 
 provide('wikiIndex', wikiIndex)
+useColorScheme()
 
 const sidebarOpen = ref(false)
 function toggleSidebar() {
