@@ -1,0 +1,148 @@
+{
+  "overview": "The novel follows Bjorn, a barbarian trapped in a mysterious labyrinth world, as he struggles to survive and grow stronger. After a brutal start, he forms temporary alliances, faces betrayal, and accumulates power and wealth. Through a series of labyrinth expeditions, political intrigues, and personal growth, he evolves from a struggling explorer into a formidable force, navigating alliances and enemies in the city of Rafdonia.",
+  "arcs": [
+    {
+      "title": "Partnership in the Labyrinth",
+      "description": "Bjorn navigates the first labyrinth floors with explorer Hans, who betrays him. Bjorn kills Hans and later meets the wounded fairy Erwen. They form a temporary night companion partnership, fleeing from the Crystal Alliance. They fight goblins and are ambushed by four explorers, but manage to kill them and escape to Rafdonia. This arc establishes Bjorn's survival instincts and his uneasy alliance with Erwen.",
+      "chapter_start": 6.0,
+      "chapter_end": 15.0,
+      "main_characters": [
+        "Bjorn",
+        "Erwen"
+      ],
+      "supporting_characters": [
+        "Hans",
+        "Chunky",
+        "Weaky",
+        "Illis",
+        "Persi",
+        "Crystal Alliance members"
+      ],
+      "key_events": [
+        "Bjorn kills Hans in self-defense",
+        "Bjorn meets and heals the injured fairy Erwen",
+        "They become night companions and flee from Crystal Alliance",
+        "Ambushed by four explorers; Bjorn kills Illis, Erwen kills Persi",
+        "They escape through the portal to Rafdonia"
+      ]
+    },
+    {
+      "title": "Return and Preparation",
+      "description": "Back in Rafdonia, Bjorn exchanges magic stones for wealth, reunites with Erwen, and meets her sister Tersia. He forms a party with the barbarian Ainar and prepares for the next labyrinth entry. He acquires the Immortal Engraving, buys equipment, and establishes a routine of training and study. The arc ends with Bjorn and Ainar entering the labyrinth using a dimensional instability technique.",
+      "chapter_start": 16.0,
+      "chapter_end": 22.0,
+      "main_characters": [
+        "Bjorn",
+        "Ainar"
+      ],
+      "supporting_characters": [
+        "Erwen",
+        "Tersia",
+        "Tribe Chief",
+        "Shaman",
+        "Ainar"
+      ],
+      "key_events": [
+        "Bjorn exchanges stones and gains wealth",
+        "Bjorn meets Erwen's sister Tersia and receives payment",
+        "Bjorn forms a party with Ainar, agreeing to an 8:2 split",
+        "Bjorn gets the Immortal Engraving from the Tribe Chief",
+        "Bjorn and Ainar enter the labyrinth using dimensional instability"
+      ]
+    },
+    {
+      "title": "Land of the Dead",
+      "description": "Bjorn and Ainar explore the Land of the Dead, fighting Death Fiends and other monsters. They encounter a red-haired raider who kills four explorers and later chases them. Betrayed by a group of explorers who try to kill them, Bjorn survives thanks to his Immortal Engraving. They are cornered by the Eighth Floor Raider, who forces them to swear a Warrior's Oath to keep silent. Bjorn vows to get stronger.",
+      "chapter_start": 23.0,
+      "chapter_end": 26.0,
+      "main_characters": [
+        "Bjorn",
+        "Ainar"
+      ],
+      "supporting_characters": [
+        "Red-haired raider",
+        "Darvan",
+        "Blonde explorer"
+      ],
+      "key_events": [
+        "Bjorn and Ainar fight Death Fiends and other monsters",
+        "They encounter the red-haired raider who kills explorers",
+        "Betrayed by explorers, Bjorn is stabbed but survives",
+        "Bjorn kills Darvan, Ainar kills two others",
+        "They are forced to swear a Warrior's Oath by the Eighth Floor Raider"
+      ]
+    },
+    {
+      "title": "Bloodstained Fortress Rift",
+      "description": "Bjorn and Ainar enter the Bloodstained Fortress Rift with a party including dwarf Hikurod Murad, mage Arua Raven, and porter Tarjin. After clearing monsters, they face a Corpse Golem mid-boss. Later, they encounter the Vampire Duke Cambormir, an Advanced Mutant. Bjorn absorbs the Corpse Golem essence and after a fierce battle, kills the vampire, acquiring its powerful essence and gaining regeneration.",
+      "chapter_start": 27.0,
+      "chapter_end": 35.0,
+      "main_characters": [
+        "Bjorn",
+        "Ainar",
+        "Hikurod Murad",
+        "Arua Raven"
+      ],
+      "supporting_characters": [
+        "Tarjin",
+        "Corpse Golem",
+        "Vampire Duke Cambormir"
+      ],
+      "key_events": [
+        "Party enters the Bloodstained Fortress Rift",
+        "They defeat the Corpse Golem mid-boss",
+        "Bjorn absorbs the Corpse Golem essence",
+        "They fight the Vampire Duke Cambormir",
+        "Bjorn kills the vampire and acquires the Vampire Guardian Essence"
+      ]
+    },
+    {
+      "title": "The Trial",
+      "description": "After exiting the rift, Bjorn is detained by guards due to his large stone sum. Investigator Coldo Bierman interrogates him and sentences him to death. Bjorn escapes using Flesh Explosion, takes hostages, and demands a fair trial. With Raven's help, he proves his innocence, receives compensation, and is promoted. He negotiates with Raven's master for the Frost Spirit Ring as compensation for being forcibly fed the Corpse Golem essence.",
+      "chapter_start": 36.0,
+      "chapter_end": 42.0,
+      "main_characters": [
+        "Bjorn",
+        "Arua Raven"
+      ],
+      "supporting_characters": [
+        "Coldo Bierman",
+        "Hartz Young",
+        "Julian Urbans",
+        "Niall Urbans",
+        "Deian Tveherion"
+      ],
+      "key_events": [
+        "Bjorn is arrested and sentenced to death",
+        "Bjorn escapes and takes hostages including Julian Urbans",
+        "Bjorn's trial ends with his innocence proven and compensation",
+        "Bjorn negotiates with Raven's master Deian for the Frost Spirit Ring",
+        "Bjorn accepts the Frost Spirit Ring as compensation"
+      ]
+    },
+    {
+      "title": "New Companions",
+      "description": "Bjorn adjusts to life after the trial, parts ways with Ainar as she trains in the Holy Land. He seeks new companions and encounters Hikurod Murad again, forming a team. They recruit mage Riol Worb Dwalki, beastkin Misha Karlstein, and scout Brown Rotmiller. The arc ends as the new team enters the Crystal Cave and Beast Den, with Bjorn reflecting on team dynamics.",
+      "chapter_start": 43.0,
+      "chapter_end": 49.0,
+      "main_characters": [
+        "Bjorn",
+        "Hikurod Murad"
+      ],
+      "supporting_characters": [
+        "Ainar",
+        "Tarikan",
+        "Riol Worb Dwalki",
+        "Misha Karlstein",
+        "Brown Rotmiller"
+      ],
+      "key_events": [
+        "Bjorn parts with Ainar as she leaves for the Holy Land",
+        "Bjorn meets Hikurod Murad and they agree to form a team",
+        "They recruit new members: Riol, Misha, and Brown",
+        "The team enters the Crystal Cave and Beast Den",
+        "Bjorn reflects on the Dimensional Instability Phenomenon and team dynamics"
+      ]
+    }
+  ]
+}

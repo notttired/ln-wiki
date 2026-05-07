@@ -17,6 +17,7 @@ const { scheme, toggle } = useColorScheme()
       </svg>
     </button>
     <RouterLink to="/" class="site-title">ln-wiki</RouterLink>
+    <RouterLink to="/timeline" class="nav-link">Timeline</RouterLink>
     <button class="theme-btn" :aria-label="scheme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'" @click="toggle">
       <svg v-if="scheme === 'dark'" width="16" height="16" viewBox="0 0 16 16" fill="none">
         <circle cx="8" cy="8" r="3.5" fill="currentColor" />
@@ -61,6 +62,21 @@ const { scheme, toggle } = useColorScheme()
 
 .site-title:hover {
   color: var(--accent);
+}
+
+.nav-link {
+  font-size: 0.875rem;
+  color: var(--text);
+  text-decoration: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: color 0.15s, background 0.15s;
+}
+
+.nav-link:hover,
+.nav-link.router-link-active {
+  color: var(--text-h);
+  background: var(--code-bg);
 }
 
 .menu-btn {

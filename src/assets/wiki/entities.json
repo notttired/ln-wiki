@@ -1,0 +1,4155 @@
+[
+  {
+    "id": "b8fda24c61d3",
+    "name": "Night Companion",
+    "aliases": [],
+    "short_description": "A temporary partnership between explorers to take turns on watch during the night.",
+    "chapter_mentions": [
+      {
+        "chapter": 6.0,
+        "context": "Introduced as a slang term for temporary overnight partnerships; the protagonist forms one with Hans."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Definition",
+        "attributes": {},
+        "notes": "Slang for a temporary partnership between explorers to take turns on watch during the night. Best with three members, but two also work.",
+        "source_chapter": 6.0
+      }
+    ]
+  },
+  {
+    "id": "ad05fc5dd746",
+    "name": "Hans",
+    "aliases": [],
+    "short_description": "Human explorer who becomes Bjorn's Night Companion. Attempted to kill Bjorn to sell his heart, but was killed by Bjorn in self-defense.",
+    "chapter_mentions": [
+      {
+        "chapter": 6.0,
+        "context": "Proposes a Night Companion partnership to the protagonist, showing experience and trust."
+      },
+      {
+        "chapter": 7.0,
+        "context": "Attempts to kill Bjorn while he sleeps but fails; Bjorn kills him in self-defense, revealing his motive was greed for Bjorn's heart."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "age": "around thirty",
+          "height": "180cm"
+        },
+        "notes": "Kind, gentle face.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Equipment",
+        "attributes": {},
+        "notes": "Wields a Mace coated in Goblin blood; carries a Pocket Watch with numbers 0-23.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Behavior",
+        "attributes": {},
+        "notes": "Experienced; takes initiative in forming Night Companion arrangements; trusts easily but is cautious in lending valuable items.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Motivation",
+        "attributes": {},
+        "notes": "Wanted to kill Bjorn to sell his heart as an ingredient for a newly developed magic.",
+        "source_chapter": 7.0
+      },
+      {
+        "label": "Fate",
+        "attributes": {},
+        "notes": "Killed by Bjorn with a shield blow to the face.",
+        "source_chapter": 7.0
+      }
+    ]
+  },
+  {
+    "id": "2d434650395f",
+    "name": "Yandel",
+    "aliases": [],
+    "short_description": "Bjorn's father. Mentioned only as a patronymic in Bjorn's self-introduction ('son of Yandel').",
+    "chapter_mentions": [
+      {
+        "chapter": 7.0,
+        "context": "Introduced as Bjorn's father through his patronymic."
+      }
+    ],
+    "importance": 0.1,
+    "information": []
+  },
+  {
+    "id": "f2845e08a63e",
+    "name": "Smash",
+    "aliases": [],
+    "short_description": "A skill used by Bjorn to attack enemies with his shield or hammer. It has decent attack power and consumes no MP.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "Used effectively with the newly equipped two-handed hammer to defeat goblins."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Usage",
+        "attributes": {},
+        "notes": "Bjorn uses Smash with both shield and hammer; with a proper weapon its power is on another level.",
+        "source_chapter": 8.0
+      }
+    ]
+  },
+  {
+    "id": "52aaf889eba9",
+    "name": "First Floor",
+    "aliases": [],
+    "short_description": "The lowest floor of the Labyrinth. It contains the Goblin District and is where most explorers begin their adventure.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "Bjorn explores the First Floor, noting its size and the scarcity of Barbarians."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "General",
+        "attributes": {},
+        "notes": "Very few Barbarians remain on the First Floor for long; most adventurers encountered are human.",
+        "source_chapter": 8.0
+      }
+    ]
+  },
+  {
+    "id": "1da6f434e5bd",
+    "name": "Pocket Watch",
+    "aliases": [],
+    "short_description": "A time-telling device, lent by the Old Man Hans and now used by Bjorn.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "Bjorn uses it to check the time."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Features",
+        "attributes": {
+          "face": "0-23 numbers"
+        },
+        "notes": null,
+        "source_chapter": 8.0
+      }
+    ]
+  },
+  {
+    "id": "745dfc7b8021",
+    "name": "Richo Leaf",
+    "aliases": [],
+    "short_description": "A herb used for healing wounds. Identified by the Fairy.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "Bjorn gives the Richo Leaf to the wounded Fairy to treat her injury."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Healing Property",
+        "attributes": {},
+        "notes": "Used by applying to wounds; the Fairy identifies it and Bjorn tosses it to her.",
+        "source_chapter": 8.0
+      }
+    ]
+  },
+  {
+    "id": "7f77b8fdb72e",
+    "name": "Rafdonia",
+    "aliases": [],
+    "short_description": "A deity or blessing mentioned by an explorer; 'blessing of Rafdonia'.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "An explorer wishes the blessing of Rafdonia upon Bjorn's journey."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "ecdfbeeda6cf",
+    "name": "Serdin",
+    "aliases": [],
+    "short_description": "A member of the Crystal Alliance who was tracking Bjorn and Erwen. Killed by Erwen's arrow.",
+    "chapter_mentions": [
+      {
+        "chapter": 10.0,
+        "context": "Killed by Erwen to prevent him from alerting allies."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Death",
+        "attributes": {},
+        "notes": "Shot through the forehead by Erwen's arrow while trying to communicate via Message Stone.",
+        "source_chapter": 10.0
+      }
+    ]
+  },
+  {
+    "id": "2e79325e852f",
+    "name": "Goblin District",
+    "aliases": [],
+    "short_description": "A region on the First Floor of the Labyrinth where goblins are commonly found. Also mentioned as an assembly point for the Crystal Alliance.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "Bjorn has been moving through the Goblin District since entering the Labyrinth."
+      },
+      {
+        "chapter": 10.0,
+        "context": null
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "8c702e6c9b30",
+    "name": "Message Stone",
+    "aliases": [],
+    "short_description": "A magical tool that allows communication within about 300 meters when resonated with another stone. Used by the Crystal Alliance to coordinate pursuit. Bjorn obtained one from the corpse of Serdin.",
+    "chapter_mentions": [
+      {
+        "chapter": 10.0,
+        "context": null
+      },
+      {
+        "chapter": 11.0,
+        "context": "Used by Crystal Alliance to coordinate pursuit; Bjorn obtains one from the corpse of Serdin."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Range",
+        "attributes": {
+          "max_range": "300 meters"
+        },
+        "notes": "Communication only possible between stones that have been resonated together beforehand.",
+        "source_chapter": 10.0
+      }
+    ]
+  },
+  {
+    "id": "24f6cb67cf4f",
+    "name": "Ghoul",
+    "aliases": [],
+    "short_description": "A ninth-rank undead monster found on the First Floor, specifically in the western region. It is stronger than Goblins, with rotten skin, empty eye sockets, and sharp claws. It moves on all fours and only attacks when approached within a certain range.",
+    "chapter_mentions": [
+      {
+        "chapter": 11.0,
+        "context": "Bjorn encounters Ghouls near the boundary of the Goblin District."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Behavior",
+        "attributes": {},
+        "notes": "Remains stationary until a character gets within a certain range, then charges. Defeated easily by Bjorn's Hammer Smash.",
+        "source_chapter": 11.0
+      }
+    ]
+  },
+  {
+    "id": "c1332ebed93a",
+    "name": "Blade Wolves",
+    "aliases": [],
+    "short_description": "A type of monster mentioned by explorers on the First Floor as a hunting target.",
+    "chapter_mentions": [
+      {
+        "chapter": 11.0,
+        "context": "Mentioned by other explorers as a potential hunting target."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "93bf20e7f364",
+    "name": "Second Floor",
+    "aliases": [],
+    "short_description": "The second floor of the Labyrinth, accessed via portals from the First Floor. It is a dark forest with a high ceiling that appears as a starry sky, known as the Goblin Forest at its entrance. Monsters appear in larger groups (ten or more) and include more dangerous varieties like Mutants and higher-rank creatures. The forest is filled with numerous traps and extremely tough trees that cannot be knocked down.",
+    "chapter_mentions": [
+      {
+        "chapter": 11.0,
+        "context": "Bjorn decides to head to the Second Floor with Erwen to escape pursuit and increase earnings."
+      },
+      {
+        "chapter": 12.0,
+        "context": "Bjorn and Erwen arrive on the Second Floor, a dark forest with a starry ceiling and numerous traps, requiring careful navigation."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "A dark forest with a high ceiling dotted with star-like lights providing dim visibility (comparable to an alleyway without streetlights). The 'sky' is actually a high ceiling and does not brighten with time. Trees are incredibly tough, resisting hammer strikes. The ground is littered with hidden traps.",
+        "source_chapter": 11.0
+      }
+    ]
+  },
+  {
+    "id": "904d0087c762",
+    "name": "Goblin Forest",
+    "aliases": [],
+    "short_description": "The specific area of the Second Floor entered by Bjorn and Erwen after activating the First Floor portal. A dark forest with many traps and goblin groups. Trees are extremely tough and cannot be knocked down. The environment is dimly lit by star-like lights on a high ceiling.",
+    "chapter_mentions": [
+      {
+        "chapter": 12.0,
+        "context": "Bjorn and Erwen enter the Goblin Forest on the Second Floor, immediately noticing its darkness and the prevalence of traps."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "A dark forest with a high ceiling dotted with star-like lights providing dim visibility (comparable to an alleyway without streetlights). The 'sky' is actually a high ceiling and does not brighten with time. Trees are incredibly tough, resisting hammer strikes. The ground is littered with hidden traps.",
+        "source_chapter": 12.0
+      }
+    ]
+  },
+  {
+    "id": "f19d5dc13218",
+    "name": "Goblin Archer's Essence",
+    "aliases": [],
+    "short_description": "A rare essence dropped by a Goblin Archer. Upon absorption, it grants stat increases (Agility +2, Flexibility +4, Vision +6, Scent +2, Awareness +2, Concealment +6, Accuracy +8, Poison Resistance +4, Tenacity +7), a passive skill (Poison Arrow: poison damage with bow-type weapons), and an active skill (Thief's Step: stealth state). Erwen absorbed it in this chapter, gaining the ability to become partially invisible.",
+    "chapter_mentions": [
+      {
+        "chapter": 13.0,
+        "context": "Bjorn discovers the Essence after defeating a Goblin Archer, and offers it to Erwen as part of a deal."
+      },
+      {
+        "chapter": 14.0,
+        "context": "Erwen absorbed it, gaining the stealth ability (Thief's Step) and other goblin archer traits."
+      }
+    ],
+    "importance": 0.75,
+    "information": [
+      {
+        "label": "Effect",
+        "attributes": {
+          "effect": "Grants a portion of the Goblin Archer's abilities when absorbed"
+        },
+        "notes": "Essences are the skill system of Dungeon & Stone; absorbing one grants some of the monster's abilities. The exact ability gained is not specified beyond 'a portion of the abilities'.",
+        "source_chapter": 13.0
+      },
+      {
+        "label": "Stat Increases",
+        "attributes": {
+          "Agility": 2.0,
+          "Flexibility": 4.0,
+          "Vision": 6.0,
+          "Scent": 2.0,
+          "Awareness": 2.0,
+          "Concealment": 6.0,
+          "Accuracy": 8.0,
+          "Poison Resistance": 4.0,
+          "Tenacity": 7.0
+        },
+        "notes": null,
+        "source_chapter": 14.0
+      },
+      {
+        "label": "Skills Granted",
+        "attributes": {
+          "Passive": "Poison Arrow",
+          "Active": "Thief's Step"
+        },
+        "notes": "Poison Arrow adds poison damage to bow attacks; Thief's Step grants a stealth state that is more effective when standing still.",
+        "source_chapter": 14.0
+      }
+    ]
+  },
+  {
+    "id": "a3af274f33c1",
+    "name": "Persi",
+    "aliases": [],
+    "short_description": "Crossbowman in the group of four explorers; killed by Erwen's arrow.",
+    "chapter_mentions": [
+      {
+        "chapter": 15.0,
+        "context": "Killed by Erwen during the ambush; was part of the group that attacked Bjorn and Erwen."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "f6859332b614",
+    "name": "Illis",
+    "aliases": [],
+    "short_description": "Samurai in the group of four explorers; killed by Bjorn biting his neck.",
+    "chapter_mentions": [
+      {
+        "chapter": 15.0,
+        "context": "Killed by Bjorn in combat; was a skilled swordsman but overwhelmed."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "e1322c518fc1",
+    "name": "Black Whale Tavern",
+    "aliases": [
+      {
+        "name": "Paidenfuss",
+        "context": "Current name of the tavern after ownership changed.",
+        "first_chapter": 17
+      }
+    ],
+    "short_description": "Tavern in Rafdonia where Bjorn and Erwen agreed to meet. It closed over ten years ago and is now operating under the name Paidenfuss, after the original owner's son got into gambling and the owner changed.",
+    "chapter_mentions": [
+      {
+        "chapter": 15.0,
+        "context": "Agreed upon as the meeting place for Bjorn and Erwen after returning to Rafdonia."
+      },
+      {
+        "chapter": 17.0,
+        "context": "Bjorn learns from a local that the Black Whale Tavern closed over ten years ago and is now operating under the name Paidenfuss."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "e1d01f450b5b",
+    "name": "Labyrinth",
+    "aliases": [],
+    "short_description": "The dungeon where explorers navigate and fight monsters. It has multiple floors, with the Sixth Floor mentioned as a goal. Time in the Labyrinth passes differently than in the city. The first year after entering has reduced taxes and fee exemptions, making it the optimal period for rapid growth. The floors are accessed via portals.",
+    "chapter_mentions": [
+      {
+        "chapter": 6.0,
+        "context": "Protagonist explores the Labyrinth, finding it well-lit and less threatening in open areas, yet still dangerous."
+      },
+      {
+        "chapter": 18.0,
+        "context": "Bjorn sets reaching the Sixth Floor as his intermediate goal for long-term financial security."
+      }
+    ],
+    "importance": 0.8,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "Caves with walls and ceiling embedded with crystals that emit light, making the interiors well-lit. Complex, ant-hill-like structure.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Features",
+        "attributes": {},
+        "notes": "Contains ponds as water sources; Goblins set crude traps in open areas.",
+        "source_chapter": 6.0
+      }
+    ]
+  },
+  {
+    "id": "2c7e3dd3e3ea",
+    "name": "Sixth Floor",
+    "aliases": [],
+    "short_description": "A floor of the Labyrinth; Bjorn calculates that to live comfortably until retirement, he needs to reach at least the Sixth Floor. It is a concrete intermediate goal for financial security.",
+    "chapter_mentions": [
+      {
+        "chapter": 18.0,
+        "context": "Bjorn calculates the financial requirements for retirement and sets reaching the Sixth Floor as his intermediate goal."
+      }
+    ],
+    "importance": 0.6,
+    "information": []
+  },
+  {
+    "id": "5c13ef301b4f",
+    "name": "Central Plaza",
+    "aliases": [],
+    "short_description": "A large plaza in Rafdonia serving as a crossroads. It is the site of public executions of tax evaders, where prisoners are guillotined and spectators sometimes dip bread in the blood.",
+    "chapter_mentions": [
+      {
+        "chapter": 18.0,
+        "context": "Bjorn and Erwen pass through the Central Plaza and witness the execution of tax evaders."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "814b5f2685ef",
+    "name": "Dungeon & Stone",
+    "aliases": [],
+    "short_description": "The game Bjorn played in his original world; its name is a forbidden word that could expose him as an Evil Spirit. It has three main stats (Physical, Mental, Supernatural Ability) and thousands of sub-stats. Sub-stats like Flexibility increase evasion and critical hit; Vision increases ranged range; Smell affects related abilities; Obsession strengthens desires. The game's mechanics have real-world effects beyond the original game.",
+    "chapter_mentions": [
+      {
+        "chapter": 6.0,
+        "context": "Referred to as a peculiar game; the protagonist notes its hardcore nature and the prevalence of companion NPCs."
+      },
+      {
+        "chapter": 18.0,
+        "context": "Bjorn reflects on sub-stats like Obsession and Flexibility, noting their real-world effects beyond the game."
+      },
+      {
+        "chapter": 19.0,
+        "context": "The name is a forbidden word that could expose Bjorn as an Evil Spirit."
+      }
+    ],
+    "importance": 0.9,
+    "information": [
+      {
+        "label": "Game Mechanics",
+        "attributes": {},
+        "notes": "Has a satiety system that is only active inside the Labyrinth; skills can be improvised by players.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Forbidden Word",
+        "attributes": {},
+        "notes": "Uttering the name 'Dungeon & Stone' could expose Bjorn as an Evil Spirit, as it is a forbidden word according to the book.",
+        "source_chapter": 19.0
+      }
+    ]
+  },
+  {
+    "id": "cd07f3601bf6",
+    "name": "First King Ravigion III",
+    "aliases": [
+      {
+        "name": "First King",
+        "context": "Referred to as the First King in the book title.",
+        "first_chapter": 19
+      }
+    ],
+    "short_description": "The Immortal King whose death 150 years ago marked the timeline shift; mentioned in the book 'On the Death of the King'.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "His death 150 years ago is revealed in the book 'On the Death of the King', proving that the current timeline is 150 years after the game's start."
+      }
+    ],
+    "importance": 0.5,
+    "information": []
+  },
+  {
+    "id": "fd5c4222c05a",
+    "name": "On the Death of the King",
+    "aliases": [],
+    "short_description": "A book detailing the death of the First King Ravigion III, which occurred 150 years ago, proving the timeline shift.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Revealed that the king died 150 years ago, confirming the timeline is 150 years after the game's start."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "d553f25f20a6",
+    "name": "Observation Records of Dimensional Instability",
+    "aliases": [],
+    "short_description": "A book containing statistics about explorers falling into the Outermost Area and speculation that portal closing time may be related to instability.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Bjorn reads it and realizes that falling into the Outermost Area is rare; author speculates about portal timing."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Author's Speculation",
+        "attributes": {},
+        "notes": "The author speculates that entering the portal the moment it closes may be related to the instability phenomenon.",
+        "source_chapter": 19.0
+      }
+    ]
+  },
+  {
+    "id": "646e831484e1",
+    "name": "Compendium of Ninth-Rank Essences",
+    "aliases": [],
+    "short_description": "An encyclopedia listing abilities of Essences from Ninth Rank monsters, using qualitative tiers (Low, Mid) instead of exact numbers.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Bjorn uses it to understand stat tiers; notes that High rank stats correspond to 21+ in a stat."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Stat Tier System",
+        "attributes": {},
+        "notes": "Stats are categorized as Low, Mid, or High. A stat of 21 or higher is marked as 'Mid'. Information on Rank 8 and above must be purchased from the Explorer's Guild.",
+        "source_chapter": 19.0
+      }
+    ]
+  },
+  {
+    "id": "6a989f6373a0",
+    "name": "Outermost Area",
+    "aliases": [],
+    "short_description": "A dangerous region in the Labyrinth where explorers rarely fall; mentioned in the observation records.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Mentioned in the observation records as a rare occurrence; Bjorn experienced it."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "5161cbfbdbba",
+    "name": "Raging Horn Bull Inn",
+    "aliases": [],
+    "short_description": "An inn in Rafdonia where Ainar and other Barbarians stay. It is cheap (300 Stone per day) because rooms are shared by 10 people with only 5 beds, so they sleep in shifts. Known as the Raging Horns Inn or Raging Horn Bull Inn.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Ainar mentions she stays there and offers help."
+      },
+      {
+        "chapter": 20.0,
+        "context": "Bjorn finds Ainar at the Raging Horns Inn, a cheap inn housing many Barbarians."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Pricing and Conditions",
+        "attributes": {
+          "daily_rate": "300 Stone",
+          "occupancy": "10 warriors sharing 5 beds, rotating sleep"
+        },
+        "notes": "The inn is filled with Barbarians. The strong smell of sweat indicates crowded conditions.",
+        "source_chapter": 20.0
+      }
+    ]
+  },
+  {
+    "id": "030d6b64c728",
+    "name": "Immortal Engraving",
+    "aliases": [],
+    "short_description": "A high-rank Spirit Engraving on the Immortal Path. Costs 800,000 Stone but Bjorn received a 200,000 Stone gift from the Tribe Chief. Grants greatly increased natural regeneration and +20 to all physical stats. It is the key to Bjorn's Training Method. The procedure is performed by the Shaman with needles following tattoos. Stage 1 has been activated.",
+    "chapter_mentions": [
+      {
+        "chapter": 20.0,
+        "context": null
+      },
+      {
+        "chapter": 21.0,
+        "context": "Bjorn underwent the Immortal Engraving Stage 1, greatly increasing his regeneration and physical stats."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Cost",
+        "attributes": {},
+        "notes": "Bjorn plans to spend his 1.4 million Stone on this engraving, indicating it is very expensive.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Effects",
+        "attributes": {
+          "natural_regeneration": "greatly increases",
+          "physical_stats_bonus": 20.0,
+          "cost": 800000.0,
+          "discount": 200000.0,
+          "stage": 1.0
+        },
+        "notes": "The engraving enhances the body with soul power. Bjorn experienced intense pain during the procedure, but felt a surge of energy afterward.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "d57d0cd97321",
+    "name": "Spirit Engraving",
+    "aliases": [],
+    "short_description": "A unique Barbarian growth method that infuses the body with Soul Power from magical ingredients via tattoos. All Barbarians receive it as newborns. It grants special powers and is performed by the Tribe Chief and Shaman. There are multiple paths; Bjorn chose the Immortal Path. The procedure is painful and involves needles following the existing tattoos.",
+    "chapter_mentions": [
+      {
+        "chapter": 20.0,
+        "context": null
+      },
+      {
+        "chapter": 21.0,
+        "context": "Bjorn received a Spirit Engraving, learning it is an enhancement art using tattoos and soul power."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "General Description",
+        "attributes": {
+          "type": "Barbarian unique characteristic"
+        },
+        "notes": "Barbarians use Spirit Engraving, similar to Fairies handling spirits and Dwarves handling Artifacts. It is costly, but Bjorn plans to use his 1.4 million Stone for it.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Mechanics",
+        "attributes": {},
+        "notes": "Infuses the body with Soul Power from magical ingredients. All Barbarians have tattoos from newborn age to keep soul circuits visible. The process is done by a Shaman using needles. pain is intense.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "03ceafa78458",
+    "name": "Tribe Chief",
+    "aliases": [],
+    "short_description": "The leader of the Barbarian tribe at the Holy Land. He performs Spirit Engravings, gives discounts to promising warriors, and reacts positively to stories of tricking fairies. He is fiery and generous, giving Bjorn a 200,000 Stone discount. He is intimidating but can be pleased.",
+    "chapter_mentions": [
+      {
+        "chapter": 20.0,
+        "context": null
+      },
+      {
+        "chapter": 21.0,
+        "context": "The Tribe Chief gave Bjorn a 200,000 Stone discount on the Immortal Engraving after hearing his tale."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Role",
+        "attributes": {},
+        "notes": "Greets Bjorn and Ainar at the Holy Land. Performs Spirit Engravings. Bjorn thinks of him as 'this fucking bastard of a Tribe Chief', implying fear or dislike.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Personality",
+        "attributes": {},
+        "notes": "Generous and fiery; laughed heartily at Bjorn's story about fleecing Erwen. Gave a 200,000 Stone discount as a gift. Bjorn found him intimidating at first but grew to like him.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "3624adee10a6",
+    "name": "Library",
+    "aliases": [],
+    "short_description": "The massive library in Rafdonia where Bjorn studies daily from 8 AM to 4 PM. Librarian Parsitiev uses magic to locate books. It holds extensive knowledge on history, alchemy, monsters, and more.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Bjorn visits the Library to research; the librarian uses a spell to guide him to relevant books."
+      },
+      {
+        "chapter": 21.0,
+        "context": "Bjorn established a daily routine of studying at the Library from 8 AM to 4 PM."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Magical Book Location",
+        "attributes": {
+          "magic": "spell that guides user to relevant books"
+        },
+        "notes": "The librarian casts a spell that makes books relevant to the user's thoughts attract the user's attention.",
+        "source_chapter": 19.0
+      },
+      {
+        "label": "Daily Use",
+        "attributes": {},
+        "notes": "Bjorn studies daily from 8 AM to 4 PM. The librarian Parsitiev uses a locator spell to help find books. Bjorn has become accustomed to the magic.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "3caad12e50bc",
+    "name": "Immortal Path",
+    "aliases": [],
+    "short_description": "One of the paths for Spirit Engraving, chosen by Bjorn for its high-performance abilities and connection to his Training Method.",
+    "chapter_mentions": [
+      {
+        "chapter": 21.0,
+        "context": "Bjorn chose the Immortal Path for his Spirit Engraving, noting its high performance and link to his Training Method."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Description",
+        "attributes": {},
+        "notes": "Bjorn chose the Immortal Path for his Spirit Engraving, noting its high performance and link to his Training Method.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "6cc53272d518",
+    "name": "Commercial District",
+    "aliases": [],
+    "short_description": "Shopping area in Rafdonia where Bjorn bought equipment including a mace, half armor, and a custom helmet.",
+    "chapter_mentions": [
+      {
+        "chapter": 21.0,
+        "context": "Bjorn visited the Commercial District to invest his money in new equipment."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Shopping",
+        "attributes": {
+          "mace_cost": 220000.0,
+          "half_armor_cost": 360000.0,
+          "helmet_cost": 170000.0
+        },
+        "notes": "Bjorn visited the Commercial District to invest his money in new equipment. He bargained for a mace, bought a half armor that fit perfectly, and ordered a custom helmet.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "2275ee3d4796",
+    "name": "Sacred Artifact War",
+    "aliases": [],
+    "short_description": "Historical war mentioned in books, involving Spirit Engraving and the Fairy Tribe.",
+    "chapter_mentions": [
+      {
+        "chapter": 21.0,
+        "context": "Bjorn mentions the Sacred Artifact War to the Tribe Chief, citing a book that describes Spirit Engraving's role in the war against the Fairy Tribe."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "888cec5e6a53",
+    "name": "Shaman",
+    "aliases": [],
+    "short_description": "Blindfolded Barbarian shaman who performs the Immortal Engraving ritual. He comments on Bjorn's clean soul circuits and uses needles to follow tattoos.",
+    "chapter_mentions": [
+      {
+        "chapter": 21.0,
+        "context": "The blindfolded Shaman performed the Immortal Engraving on Bjorn, commenting on his clean soul circuits."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "Blindfolded; performs the ritual with needles. Bjorn found the experience painful.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Role",
+        "attributes": {},
+        "notes": "Performs the painful engraving procedure on warriors. He noted that Bjorn had clean circuits and that maintaining purity would allow spirits to grant power.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "c1ef0171041f",
+    "name": "Dimensional Plaza",
+    "aliases": [],
+    "short_description": "The plaza in Rafdonia where the Portal to the Labyrinth opens every month at midnight. Thousands of explorers gather to enter. The portal emits a light and shrinks over time.",
+    "chapter_mentions": [
+      {
+        "chapter": 22.0,
+        "context": "Bjorn and Ainar waited in the Dimensional Plaza until the crowd thinned, then entered the portal as it was closing."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "portal_open_time": "midnight",
+          "crowd_size": "thousands"
+        },
+        "notes": "A large plaza with a central point where the portal manifests as a shimmering orb of light. Explorers crowd in and enter when the official signals.",
+        "source_chapter": 22.0
+      }
+    ]
+  },
+  {
+    "id": "0855afaf4b95",
+    "name": "Land of the Dead",
+    "aliases": [],
+    "short_description": "A region on the Second Floor of the Labyrinth, populated by undead monsters like Ghouls, Skeletons, Banshees, and Death Fiends.",
+    "chapter_mentions": [
+      {
+        "chapter": 23.0,
+        "context": "Bjorn and Ainar hunt in the Land of the Dead on the Second Floor, encountering Banshees, Skeletons, and a Death Fiend."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Monsters and Environment",
+        "attributes": {},
+        "notes": "Contains Ghouls, Elder Ghouls, Skeletons, Banshees, Dullahan, and Death Fiends. Higher-species (Eighth Rank) monsters appear deeper. Environment: black earth, ruins of stone buildings, faint mournful cries, eerie atmosphere.",
+        "source_chapter": 23.0
+      }
+    ]
+  },
+  {
+    "id": "49281ae68f16",
+    "name": "Behel",
+    "aliases": [],
+    "short_description": "The name of the ancestral spirit shouted by Barbarians during battle, symbolizing their battle cry.",
+    "chapter_mentions": [
+      {
+        "chapter": 23.0,
+        "context": "Bjorn and Ainar shout 'Behel' as they charge into combat against the Death Fiend."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Usage",
+        "attributes": {},
+        "notes": "Shouted as a war cry by Barbarians, e.g., 'Behel—laaaaaaa!!' when charging into battle.",
+        "source_chapter": 23.0
+      }
+    ]
+  },
+  {
+    "id": "ce19205f7d7c",
+    "name": "Protein Blade and Shield",
+    "aliases": [],
+    "short_description": "The names of the Death Fiend's arm-mounted sword and shield, which are part of its body.",
+    "chapter_mentions": [
+      {
+        "chapter": 23.0,
+        "context": "The Death Fiend's Protein Blade and Shield are described during the battle."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "One arm is a long curved blade like a crescent moon, the other arm is shaped like a shield. Both are part of the Death Fiend's body.",
+        "source_chapter": 23.0
+      }
+    ]
+  },
+  {
+    "id": "c0b24b7941b5",
+    "name": "Mark of Grudge",
+    "aliases": [],
+    "short_description": "A curse inflicted by Banshees when attacked first, causing them to relentlessly target the cursed explorer within the Labyrinth.",
+    "chapter_mentions": [
+      {
+        "chapter": 23.0,
+        "context": "Bjorn advises Ainar not to attack Banshees first to avoid the Mark of Grudge curse."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Effect",
+        "attributes": {},
+        "notes": "If a Banshee is attacked first, it inflicts this curse, making the Banshee relentlessly target the victim until they leave the Labyrinth.",
+        "source_chapter": 23.0
+      }
+    ]
+  },
+  {
+    "id": "b761aa57c436",
+    "name": "Call of the Dead",
+    "aliases": [],
+    "short_description": "An active skill of the Death Fiend that summons Ghouls from the ground to aid it in battle.",
+    "chapter_mentions": [
+      {
+        "chapter": 23.0,
+        "context": "The Death Fiend uses Call of the Dead during the fight, summoning Ghouls."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Effect",
+        "attributes": {},
+        "notes": "The Death Fiend uses this skill to cause tremors and summon Ghouls (exactly ten) from beneath the ground to assist it.",
+        "source_chapter": 23.0
+      }
+    ]
+  },
+  {
+    "id": "ccf94fadc2a7",
+    "name": "Body Preservation",
+    "aliases": [],
+    "short_description": "A passive skill of the Death Fiend that rapidly heals its wounds, making it difficult to kill without concentrated attacks.",
+    "chapter_mentions": [
+      {
+        "chapter": 23.0,
+        "context": "Bjorn notes the Death Fiend's Body Preservation skill during the battle, explaining why its wounds heal quickly."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Effect",
+        "attributes": {},
+        "notes": "Passive skill that stops bleeding within three seconds and rapidly regenerates flesh, rendering non-concentrated attacks ineffective.",
+        "source_chapter": 23.0
+      }
+    ]
+  },
+  {
+    "id": "ee6ba2c7839b",
+    "name": "Essence of the Death Fiend",
+    "aliases": [],
+    "short_description": "A rare essence dropped by Death Fiends. Contains the Active Skill 'Call of the Dead' and the Passive Skill 'Body Preservation'. The passive is especially valuable for its synergy with the Immortal Engraving's regeneration boost.",
+    "chapter_mentions": [
+      {
+        "chapter": 24.0,
+        "context": "Bjorn hoped to obtain this essence for its Body Preservation passive, which synergizes with his Immortal Engraving, but it did not drop after 70 kills."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Skills",
+        "attributes": {
+          "active_skill": "Call of the Dead",
+          "passive_skill": "Body Preservation"
+        },
+        "notes": null,
+        "source_chapter": 24.0
+      }
+    ]
+  },
+  {
+    "id": "56dbcac95e90",
+    "name": "Corpse Flowers",
+    "aliases": [],
+    "short_description": "Flowers that bloom on vines covering the rubble of stone buildings in the Land of the Dead. When split open, they provide drinkable water.",
+    "chapter_mentions": [
+      {
+        "chapter": 24.0,
+        "context": "Bjorn explained that Corpse Flowers are the only water source in the Land of the Dead, though Ainar was skeptical of their hygiene."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Usage",
+        "attributes": {},
+        "notes": "Provides fresh water when split open; available at specific times (blooming cycle).",
+        "source_chapter": 24.0
+      }
+    ]
+  },
+  {
+    "id": "88de3da4b23f",
+    "name": "Blond Explorer",
+    "aliases": [],
+    "short_description": "A human explorer with blond hair, approximately 160cm tall. Possesses a Gnome's Supernatural Ability that grants area stealth within a 3-meter radius on the ground. Captured by Bjorn and forced to use his ability to help them escape.",
+    "chapter_mentions": [
+      {
+        "chapter": 25.0,
+        "context": "Captured by Bjorn and forced to activate his area stealth ability to evade the red-haired raider."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Area Stealth",
+        "attributes": {
+          "range": "3 meters",
+          "duration": "30 minutes (can extend to 40)",
+          "restriction": "cannot move while active"
+        },
+        "notes": null,
+        "source_chapter": 25.0
+      },
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "160cm",
+          "hair": "blond"
+        },
+        "notes": "Small build.",
+        "source_chapter": 25.0
+      }
+    ]
+  },
+  {
+    "id": "25ca87dfa048",
+    "name": "Darvan",
+    "aliases": [],
+    "short_description": "Bald human explorer who led a group of four explorers. Betrayed Bjorn and Ainar after offering help, using a Stone Golem's Suppression ability. Killed by Bjorn with a mace blow to the head.",
+    "chapter_mentions": [
+      {
+        "chapter": 25.0,
+        "context": "Betrayed Bjorn and Ainar, subdued them with Suppression, then was killed by Bjorn in a desperate counterattack."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "97d8023d080b",
+    "name": "Ramod",
+    "aliases": [],
+    "short_description": "Human explorer in Darvan's group. Urged to finish off Bjorn quickly; later killed by Ainar's greatsword.",
+    "chapter_mentions": [
+      {
+        "chapter": 25.0,
+        "context": "One of the four explorers who betrayed Bjorn and Ainar; killed by Ainar after Bjorn freed her."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "ff54c40146e0",
+    "name": "Red-haired Raider",
+    "aliases": [
+      {
+        "name": "Eighth Floor Raider",
+        "context": "Revealed by Bjorn after she tells him she is from the Eighth Floor",
+        "first_chapter": 26
+      }
+    ],
+    "short_description": "A female raider from the Eighth Floor who specializes in killing other explorers in the Labyrinth. She has red hair, a tattoo under her eye, and the top half of her right ear missing. She uses a dagger, Basilisk Paralysis Poison, and carries a magical bag for storing loot. She owes a debt to Barbarians and forced Bjorn and Ainar to swear an Oath to keep silent, then healed them.",
+    "chapter_mentions": [
+      {
+        "chapter": 24.0,
+        "context": "Encountered Bjorn and Ainar after killing four explorers, but did not attack them, choosing to ignore them after a brief exchange."
+      },
+      {
+        "chapter": 25.0,
+        "context": "Continues to pursue Bjorn and Ainar after looting her victims, showing her persistence and confidence as a raider."
+      },
+      {
+        "chapter": 26.0,
+        "context": "Forces Bjorn and Ainar to swear an Oath to keep silent, reveals she is from the Eighth Floor and owes a debt to Barbarians."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "over 170cm",
+          "build": "lean",
+          "hair": "red, shoulder-length",
+          "distinguishing_marks": "tattoo under eye, top half of right ear missing"
+        },
+        "notes": "She wore no mask, indicating confidence in not being reported.",
+        "source_chapter": 24.0
+      },
+      {
+        "label": "Profession",
+        "attributes": {},
+        "notes": "Raider: hunts explorers for their gear rather than monsters. Her method likely involves poison, as three of the four corpses had no external injuries.",
+        "source_chapter": 24.0
+      },
+      {
+        "label": "Equipment",
+        "attributes": {},
+        "notes": "Carries a magical tool bag that can store bulky items; uses a bloodied dagger.",
+        "source_chapter": 24.0
+      },
+      {
+        "label": "Combat Behavior",
+        "attributes": {},
+        "notes": "Observed looting gear from corpses nonchalantly even with witnesses; gave chase but prioritized looting, indicating confidence and experience.",
+        "source_chapter": 25.0
+      },
+      {
+        "label": "Basilisk Paralysis Poison",
+        "attributes": {
+          "type": "Poison",
+          "effect": "Paralysis"
+        },
+        "notes": "Used to paralyze Bjorn and Ainar; described as causing the victim's muscles to stiffen and lose strength.",
+        "source_chapter": 26.0
+      },
+      {
+        "label": "High-grade Potion",
+        "attributes": {},
+        "notes": "Used a high-grade potion on Bjorn and Ainar to heal their wounds and lift the paralysis.",
+        "source_chapter": 26.0
+      },
+      {
+        "label": "Debt to Barbarians",
+        "attributes": {},
+        "notes": "Claims to owe a debt to Barbarians, which is why she offered an Oath instead of killing them.",
+        "source_chapter": 26.0
+      }
+    ]
+  },
+  {
+    "id": "e36ae3ae33f2",
+    "name": "Warrior's Oath",
+    "aliases": [],
+    "short_description": "A sacred oath sworn by Barbarians on their Warrior's Honor. While it has no magical binding like a Fairy's promise, it carries significant cultural weight and is generally trusted by others.",
+    "chapter_mentions": [
+      {
+        "chapter": 26.0,
+        "context": "Bjorn and Ainar swear the Warrior's Oath to the Eighth Floor Raider to avoid death."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "6c43ae3b9f0a",
+    "name": "Basilisk Paralysis Poison",
+    "aliases": [],
+    "short_description": "A poison that causes paralysis in its victim. Used by the Eighth Floor Raider. The poison is delivered via a small needle or dagger, and a high-grade potion is required to counteract it.",
+    "chapter_mentions": [
+      {
+        "chapter": 26.0,
+        "context": "The Eighth Floor Raider uses it to paralyze Bjorn and Ainar; Ainar struck in the wrist, Bjorn in the spine."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "029c8f314f85",
+    "name": "Monument to the Great Sage",
+    "aliases": [],
+    "short_description": "A stone tablet in the center of the First Floor, used to open Rifts by offering Magic Stones of four monster types and an Eighth-Rank stone. Inscription honors the Last Great Sage, Difflun Groundel Gabrielius.",
+    "chapter_mentions": [
+      {
+        "chapter": 27.0,
+        "context": "Used by Bjorn to forcibly open a Rift."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Function",
+        "attributes": {},
+        "notes": "To open a Rift, offer a Magic Stone from each of Goblin, Gnome, Ghoul, and Blade Wolf, plus an Eighth-Rank Magic Stone. The stone disappears and a portal opens.",
+        "source_chapter": 27.0
+      }
+    ]
+  },
+  {
+    "id": "e09dc4ca3718",
+    "name": "Frost Lord's Palace",
+    "aliases": [],
+    "short_description": "A Rift on the Eighth Floor, known to be extremely challenging. Referenced by Ainar as a place she has heard of.",
+    "chapter_mentions": [
+      {
+        "chapter": 27.0,
+        "context": "Mentioned by Ainar as an example of a Rift she knows about from stories."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "5bda69f70c36",
+    "name": "Death Fiend",
+    "aliases": [],
+    "short_description": "An eighth-rank undead monster found in the Land of the Dead. It stands over three meters tall, with one arm shaped like a blade and the other like a shield. It possesses high defense, rapid regeneration (Body Preservation), and can summon Ghouls (Call of the Dead). Its Magic Stone can be used as a sacrifice to open the Bloodstained Fortress Rift on the First Floor.",
+    "chapter_mentions": [
+      {
+        "chapter": 24.0,
+        "context": "Bjorn and Ainar hunted over 70 Death Fiends over two days on the second floor, using a coordinated takedown strategy, but did not obtain its rare Essence."
+      },
+      {
+        "chapter": 27.0,
+        "context": "Its Magic Stone is used as a sacrifice to open the Bloodstained Fortress Rift."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "3m",
+          "arms": "Protein Blade and Shield (part of body)"
+        },
+        "notes": "A humanoid undead with a distorted form; its arms are natural weapons.",
+        "source_chapter": 24.0
+      },
+      {
+        "label": "Abilities",
+        "attributes": {
+          "active_skill": "Call of the Dead (summons Ghouls)",
+          "passive_skill": "Body Preservation (regeneration)"
+        },
+        "notes": "The regeneration makes it difficult to kill without focused attacks to the head.",
+        "source_chapter": 24.0
+      },
+      {
+        "label": "Combat Strategy",
+        "attributes": {},
+        "notes": "Vulnerable to takedowns due to poor balance; can be overcome by two Barbarians working together to slam it to the ground and continuously attack the head.",
+        "source_chapter": 24.0
+      },
+      {
+        "label": "Drop",
+        "attributes": {},
+        "notes": "May rarely drop an Essence containing the Call of the Dead and Body Preservation skills.",
+        "source_chapter": 24.0
+      }
+    ]
+  },
+  {
+    "id": "30428252439f",
+    "name": "Blackrock Mountain",
+    "aliases": [],
+    "short_description": "A hunting area on the Second Floor, originally planned destination for hunting Gnomes, Kobolds, and Stone Golems before Bjorn decided to enter a Rift instead.",
+    "chapter_mentions": [
+      {
+        "chapter": 27.0,
+        "context": "Mentioned as the original planned hunting ground that Bjorn decides to forgo."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "a0160b7f0da4",
+    "name": "Last Great Sage Difflun Groundel Gabrielius",
+    "aliases": [],
+    "short_description": "The historical figure honored by the Monument to the Great Sage, mentioned in the inscription on the monument.",
+    "chapter_mentions": [
+      {
+        "chapter": 27.0,
+        "context": "Inscription on the monument states 'In honor of the great first step of the Last Great Sage, Difflun Groundel Gabrielius'."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "e64f60e137da",
+    "name": "Rift",
+    "aliases": [],
+    "short_description": "A portal that opens randomly on each floor of the Labyrinth, leading to a separate dungeon space (instance dungeon). Rifts have a cooldown of at least three cycles (months). They can be forcibly opened by offering specific magic stones at the Monument to the Great Sage. Rifts contain a Guardian that drops special items such as Numbers Items, Guardian's Essence, and Rift Stones.",
+    "chapter_mentions": [
+      {
+        "chapter": 28.0,
+        "context": "Bjorn and Ainar enter a Rift on the First Floor by using the Monument to the Great Sage, aiming to gain strength."
+      },
+      {
+        "chapter": 29.0,
+        "context": "The Rift expedition into the Bloodstained Fortress involved negotiation over the distribution of these spoils."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Cooldown",
+        "attributes": {
+          "minimum": "3 cycles (months)",
+          "maximum": "8 cycles"
+        },
+        "notes": "Rifts open randomly between 3 and 8 cycles after the last one.",
+        "source_chapter": 28.0
+      },
+      {
+        "label": "Loot",
+        "attributes": {
+          "items": [
+            "Numbers Item",
+            "Guardian's Essence",
+            "Rift Stone"
+          ]
+        },
+        "notes": "These items are highly sought after by explorers.",
+        "source_chapter": 29.0
+      }
+    ]
+  },
+  {
+    "id": "81e38452b8be",
+    "name": "Numbers Item",
+    "aliases": [],
+    "short_description": "A valuable item from the Guardian's spoils in a Rift, specifically desired by the dwarf Murad.",
+    "chapter_mentions": [
+      {
+        "chapter": 29.0,
+        "context": "Murad insisted on taking the Numbers Item from the Guardian's spoils."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "c15632037e7a",
+    "name": "Rift Stone",
+    "aliases": [],
+    "short_description": "An item from a Rift that can be used for loot allocation; Bjorn gave it up in exchange for priority on other essences.",
+    "chapter_mentions": [
+      {
+        "chapter": 29.0,
+        "context": "Bjorn initially demanded the Rift Stone but later exchanged it for priority on essences."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "7fedeb094356",
+    "name": "Underground Prison",
+    "aliases": [],
+    "short_description": "The third chapter of the Bloodstained Fortress. A maze-like area consisting of three floors, reminiscent of a mad scientist's laboratory. Contains monsters such as Skull Rats, Banshees, Death Fiends, Chimera Wolves, Ghoul Lords, and Corpse Golems.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "The party descends into the Underground Prison, the third chapter of the Bloodstained Fortress, encountering the Corpse Golem."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "The first floor has iron bars with chained dead men and skeletal rats. The second floor resembles a laboratory with chimera wolves and ghoul lords. The final floor is a circular, sewage-like space with large pipes dripping blackish filth and a floor piled with bent limbs and heads.",
+        "source_chapter": 30.0
+      }
+    ]
+  },
+  {
+    "id": "6e6b5ca25162",
+    "name": "Flame Baptism",
+    "aliases": [],
+    "short_description": "A fire spell used by Raven that fills a straight corridor with flames, destroying a group of Banshees.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "Used by Raven to clear the corridor in the Underground Prison, instantly killing all Banshees."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "5d75aaab0e12",
+    "name": "Blade Storm",
+    "aliases": [],
+    "short_description": "A wind spell used by Raven that creates a fierce gale, shredding multiple enemies over a wide area.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "Though not used in this chapter, it was previously employed to clear the bridge and outer walls in the Bloodstained Fortress."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "f9760d11c7c1",
+    "name": "Curse Dispelling",
+    "aliases": [],
+    "short_description": "A spell used by Raven to remove curses, such as petrification from Gargoyle Statues.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "Used by Raven to lift the petrification curse during the Gargoyle encounter."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "8823c6a2da0a",
+    "name": "Wound aggravation curse",
+    "aliases": [],
+    "short_description": "A curse spell used by Raven to weaken enemies by aggravating their wounds, sealing passive abilities like Body Preservation.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "Used by Raven against Death Fiends to remove their regeneration ability, allowing easier kills."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "e54988990464",
+    "name": "Mana Arrow",
+    "aliases": [],
+    "short_description": "A basic attack spell used by Raven, firing an arrow of light with no casting time.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "Used by Raven to mark a Banshee, triggering the Mark of Grudge."
+      }
+    ],
+    "importance": 0.1,
+    "information": []
+  },
+  {
+    "id": "644172e95993",
+    "name": "Corpse Golem",
+    "aliases": [],
+    "short_description": "The mid-boss of the Bloodstained Fortress Underground Prison. A Rank 7 elite monster made of corpses, it speaks in a female voice expressing pain and fragmented emotions. It attacks by throwing exploding corpses and pulling enemies in with hundreds of arms. It has two phases: an outer shell that can be burned away, and a Bone Golem mode with faster movements. Its weak point is a magic core inside its ribs.",
+    "chapter_mentions": [
+      {
+        "chapter": 30.0,
+        "context": "Introduced as the mid-boss of the Bloodstained Fortress, it attacks the party in its lair after they enter the third underground floor."
+      },
+      {
+        "chapter": 31.0,
+        "context": "Defeated by Bjorn and Ainar after Raven's Flame Baptism burned away its outer shell; dropped a Corpse Golem Essence."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "A massive pile of human arms, legs, and heads packed together; each part moves individually. Hundreds of mouths spew uncontrolled, fragmented emotions such as 'it hurts', 'kill me', 'save me'.",
+        "source_chapter": 30.0
+      },
+      {
+        "label": "Attack",
+        "attributes": {},
+        "notes": "Throws piles of corpses like a shot put, which explode on impact, scattering flesh and blood. The fluid is acidic and can cause injuries like eye damage.",
+        "source_chapter": 30.0
+      },
+      {
+        "label": "Combat Abilities",
+        "attributes": {
+          "rank": "7",
+          "phases": [
+            "outer shell",
+            "bone golem"
+          ],
+          "weak_point": "magic core",
+          "attacks": [
+            "exploding corpse throw",
+            "arm pull",
+            "flesh explosion"
+          ]
+        },
+        "notes": "Fought in the Bloodstained Fortress Underground Prison. After outer shell is burned away, it enters Bone Golem mode with faster movements. Defeated by breaking ribs to expose core.",
+        "source_chapter": 31.0
+      }
+    ]
+  },
+  {
+    "id": "f878d56fa671",
+    "name": "Tarjin",
+    "aliases": [],
+    "short_description": "A professional Porter hired by Arua Raven to assist in the Rift. He is a human man. After the Corpse Golem battle, he blocked Bjorn and Ainar from approaching Raven, showing distrust.",
+    "chapter_mentions": [
+      {
+        "chapter": 28.0,
+        "context": "Introduced as the porter accompanying Mage Raven into the Rift."
+      },
+      {
+        "chapter": 31.0,
+        "context": "Blocked the party after the Corpse Golem fight, warning them not to come closer."
+      }
+    ],
+    "importance": 0.2,
+    "information": [
+      {
+        "label": "Loyalty",
+        "attributes": {},
+        "notes": "Remained by Raven's side and blocked Bjorn and Ainar from approaching after the battle, showing distrust of outsiders.",
+        "source_chapter": 31.0
+      }
+    ]
+  },
+  {
+    "id": "ddfd48a16264",
+    "name": "Guardian's Essence",
+    "aliases": [],
+    "short_description": "A special essence dropped by the Guardian of a Rift, claimed by Raven in the loot negotiation. In the Bloodstained Fortress, Raven agreed to trade this essence for the Corpse Golem Essence with Bjorn.",
+    "chapter_mentions": [
+      {
+        "chapter": 29.0,
+        "context": "Raven claimed the Guardian's Essence as part of the loot agreement."
+      },
+      {
+        "chapter": 31.0,
+        "context": "Raven agreed to trade this essence for the Corpse Golem essence."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "1681dac87fc8",
+    "name": "Demon Worship Hall",
+    "aliases": [],
+    "short_description": "The final chapter of the Bloodstained Fortress Rift, a spacious stone chamber with intimidating demon sculptures and a floor covered in human skulls. Located beneath the lord's castle.",
+    "chapter_mentions": [
+      {
+        "chapter": 31.0,
+        "context": "The party enters the Demon Worship Hall as the final area of the Rift."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "A spacious stone chamber with demon sculptures and a floor covered in human skulls.",
+        "source_chapter": 31.0
+      }
+    ]
+  },
+  {
+    "id": "dbf1c3d21e10",
+    "name": "Corpse Golem Essence",
+    "aliases": [],
+    "short_description": "The essence dropped by the Corpse Golem in the Bloodstained Fortress. Contains stats: Pain Resistance+70, Bone Density+55, Poison Resistance+12, Strength+15, Perception-5, Appetite+9, Weight+21. Special skills: (P) Acidic Fluid - blood becomes acidic, damaging equipment when wounded; (A) Flesh Explosion - detonate body part at HP cost.",
+    "chapter_mentions": [
+      {
+        "chapter": 31.0,
+        "context": "Dropped by the Corpse Golem; Bjorn traded it to Raven in exchange for the Guardian's Essence."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Stats and Skills",
+        "attributes": {
+          "Pain Resistance": 70.0,
+          "Bone Density": 55.0,
+          "Poison Resistance": 12.0,
+          "Strength": 15.0,
+          "Perception": -5.0,
+          "Appetite": 9.0,
+          "Weight": 21.0
+        },
+        "notes": "Passive: Acidic Fluid makes blood acidic, damaging equipment when wounded. Active: Flesh Explosion deals damage but costs HP.",
+        "source_chapter": 31.0
+      }
+    ]
+  },
+  {
+    "id": "5adb1bb0fbb7",
+    "name": "Bloodstained Fortress",
+    "aliases": [],
+    "short_description": "A Rift (instance dungeon) on the First Floor, entered by offering magic stones at the Monument to the Great Sage. It has a red sky and a dark fortress in the distance. The fortress consists of an outer checkpoint with a drawbridge and moat, followed by three chapters: city streets of the outer wall, underground prison of the inner wall, and the Demon Worship Hall in the lord's castle. Monsters include Gargoyle Statues, Dead men, Skeleton Archers, Ghouls, and Death Fiends.",
+    "chapter_mentions": [
+      {
+        "chapter": 27.0,
+        "context": "Opened by Bjorn and Ainar as the first Rift they enter."
+      },
+      {
+        "chapter": 29.0,
+        "context": "The party entered and cleared the outer checkpoint and city streets, encountering various undead and Gargoyle Statues."
+      },
+      {
+        "chapter": 32.0,
+        "context": "Confirmed that the Guardian of the Bloodstained Fortress can vary; encountered Vampire Duke Cambormir instead of the expected Death Knight."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "Red sky, flock of crows, dark fortress visible in the distance.",
+        "source_chapter": 27.0
+      },
+      {
+        "label": "Dungeon Layout",
+        "attributes": {
+          "chapters": [
+            "Outer checkpoint with drawbridge",
+            "City streets of outer wall",
+            "Underground prison of inner wall",
+            "Demon Worship Hall"
+          ]
+        },
+        "notes": "Described in detail as the Bloodstained Fortress.",
+        "source_chapter": 29.0
+      },
+      {
+        "label": "Monster Types",
+        "attributes": {},
+        "notes": "Includes Gargoyle Statues, Dead men, Skeleton Archers, Ghouls, and Death Fiends.",
+        "source_chapter": 29.0
+      },
+      {
+        "label": "Guardian",
+        "attributes": {
+          "expected": "Death Knight",
+          "actual": "Vampire Duke Cambormir"
+        },
+        "notes": "The Guardian changed unexpectedly; Vampire Duke Cambormir is a Rank 5 Advanced Mutant boss.",
+        "source_chapter": 32.0
+      }
+    ]
+  },
+  {
+    "id": "4af823be2f28",
+    "name": "Guardian",
+    "aliases": [],
+    "short_description": "The boss monster of the Bloodstained Fortress Rift, which can vary. In one instance, it was expected to be a Death Knight but actually appeared as the vampire Duke Cambormir, a Rank 5 Advanced Mutant.",
+    "chapter_mentions": [
+      {
+        "chapter": 28.0,
+        "context": "Raven demands the spoils from the Guardian for her own research."
+      },
+      {
+        "chapter": 32.0,
+        "context": "The Guardian of the Bloodstained Fortress was revealed to be Vampire Duke Cambormir instead of the anticipated Death Knight."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Encountered Form",
+        "attributes": {
+          "expected": "Death Knight",
+          "actual": "Vampire Duke Cambormir"
+        },
+        "notes": "The Guardian changed unexpectedly in the current expedition.",
+        "source_chapter": 32.0
+      }
+    ]
+  },
+  {
+    "id": "29b7cb199f9e",
+    "name": "Necronomicon",
+    "aliases": [],
+    "short_description": "Dark Magic book found by Raven in the stone chamber of the Bloodstained Fortress Demon Worship Hall. Can be taken outside without Distortion Magic.",
+    "chapter_mentions": [
+      {
+        "chapter": 32.0,
+        "context": "Discovered by Raven using a hidden mechanism, claimed by her as spoils."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Properties",
+        "attributes": {},
+        "notes": "Contains Dark Magic; treated as an item for inventory purposes.",
+        "source_chapter": 32.0
+      }
+    ]
+  },
+  {
+    "id": "218c9c6b62ec",
+    "name": "Bone Knight Essence",
+    "aliases": [],
+    "short_description": "Rank 7 monster essence with Yearning attribute, grants Life Drain ability and reduces height. Used by Ainar in Chapter 32.",
+    "chapter_mentions": [
+      {
+        "chapter": 32.0,
+        "context": "Dropped by a Bone Knight in the Demon Worship Hall, claimed by Bjorn and given to Ainar."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Stats",
+        "attributes": {
+          "Cutting Power": "+12",
+          "Bone Density": "+55",
+          "Agility": "+15",
+          "Endurance": "+15",
+          "Flexibility": "-7",
+          "Height": "-25"
+        },
+        "notes": "Yearning type: only has Life Drain ability; Preservative passive reduces wound-worsening effects by half.",
+        "source_chapter": 32.0
+      }
+    ]
+  },
+  {
+    "id": "08d2d5c20e91",
+    "name": "Vampire Duke Cambormir",
+    "aliases": [],
+    "short_description": "An Advanced Mutant vampire and the Guardian of the Bloodstained Fortress. Possesses Dark Magic including Wraith Form, Materialization, Sacrificial Mark, and Pain Sharing. Uses claws, turns into crows, and can regenerate health via Immortal One. A Fifth Rank monster with high combat power. Defeated by Bjorn and his party in a hard-fought battle; his essence was absorbed by Bjorn.",
+    "chapter_mentions": [
+      {
+        "chapter": 32.0,
+        "context": "Replaces the Death Knight as the Guardian of the Bloodstained Fortress, surprising the party with his intelligence and power."
+      },
+      {
+        "chapter": 33.0,
+        "context": "Pursues the party after they open the wrong door, using Dark Magic and the Pain Sharing ability gained from an Essence."
+      },
+      {
+        "chapter": 34.0,
+        "context": "Serves as the Guardian of the Bloodstained Fortress, engaging the party in a fierce battle while using Sacrificial Mark and Pain Sharing."
+      },
+      {
+        "chapter": 35.0,
+        "context": "Engages Bjorn's party in a prolonged battle, using Pain Sharing and Immortal One to survive, but ultimately is killed by Bjorn's relentless use of Flesh Explosion."
+      }
+    ],
+    "importance": 0.9,
+    "information": [
+      {
+        "label": "Combat Abilities",
+        "attributes": {
+          "type": "Advanced Mutant vampire",
+          "rank": "Rank 5 difficulty"
+        },
+        "notes": "Proficient in close combat and Dark Magic; possesses intelligence and a history.",
+        "source_chapter": 32.0
+      },
+      {
+        "label": "Intelligent Named Monster",
+        "attributes": {},
+        "notes": "Has a name and history; speaks to the party upon awakening.",
+        "source_chapter": 32.0
+      },
+      {
+        "label": "Abilities",
+        "attributes": {
+          "dark_magic": [
+            "Wraith Form",
+            "Materialization"
+          ]
+        },
+        "notes": "Also possesses Pain Sharing ability from an Essence.",
+        "source_chapter": 33.0
+      },
+      {
+        "label": "Skills",
+        "attributes": {
+          "Sacrificial Mark": "Buff skill that designates sacrifices and increases physical abilities based on number of sacrifices within 100m",
+          "Pain Sharing": "Active skill that shares damage received with the attacker"
+        },
+        "notes": "Uses Wraith Form to pursue, transforms into crows that explode, and combines Dark Magic with close combat.",
+        "source_chapter": 34.0
+      },
+      {
+        "label": "Abilities Used",
+        "attributes": {
+          "Immortal_One": "Greatly increases regeneration proportional to lost health",
+          "Pain_Sharing": "Shares damage with target",
+          "Sacrificial_Mark": "Designates sacrifices within 100m to increase physical abilities"
+        },
+        "notes": "The Vampire Duke's Immortal One made him extremely difficult to kill, as his wounds healed rapidly. His Pain Sharing ability incapacitated the entire party after Raven's Black Sun Orb exploded. He was finally defeated when Bjorn destroyed his heart with repeated Flesh Explosions.",
+        "source_chapter": 35.0
+      }
+    ]
+  },
+  {
+    "id": "b2ab62ca2392",
+    "name": "Black Sun Orb",
+    "aliases": [],
+    "short_description": "A sixth-rank attack spell with the sun attribute, combining fire and holy attributes. Less powerful than a fireball of same rank. Cast by Arua Raven.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Cast by Raven to damage the Vampire Duke, but the explosion also caught the party, stunning them."
+      }
+    ],
+    "importance": 0.6,
+    "information": []
+  },
+  {
+    "id": "62cb6d2b91b4",
+    "name": "Pain Sharing",
+    "aliases": [],
+    "short_description": "A spell cast by the Vampire Duke Cambormir that shares pain with the target, causing them to feel the vampire's injuries. Used to incapacitate the party.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Used by the vampire after being hit by Black Sun Orb, it stunned Murad, Ainar, and the Porter."
+      }
+    ],
+    "importance": 0.6,
+    "information": []
+  },
+  {
+    "id": "737bfebc5d54",
+    "name": "Immortal One",
+    "aliases": [],
+    "short_description": "A passive effect that greatly increases the vampire's regeneration in proportion to lost health. Possessed by the Vampire Duke Cambormir and later granted to Bjorn via his essence.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Demonstrated by the vampire as it regenerated from critical wounds; later acquired by Bjorn."
+      }
+    ],
+    "importance": 0.6,
+    "information": []
+  },
+  {
+    "id": "656f61abf464",
+    "name": "Source of Darkness",
+    "aliases": [],
+    "short_description": "A passive skill obtained from the Vampire Guardian Essence that prevents the character from dying until their heart is destroyed.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Acquired by Bjorn after absorbing the Vampire Guardian Essence, ensuring his survival even after reaching 0% HP."
+      }
+    ],
+    "importance": 0.6,
+    "information": []
+  },
+  {
+    "id": "e6d0247523d6",
+    "name": "Lightning Discharge",
+    "aliases": [],
+    "short_description": "A rare transformation-type Supernatural Ability used by Hikurod Murad. Allows the user to release energy gained through other abilities to the outside. Used in combination with 'Lightning' to stun enemies.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Used by Murad to stun the Vampire Duke, creating an opening for Bjorn."
+      }
+    ],
+    "importance": 0.5,
+    "information": []
+  },
+  {
+    "id": "11438b33ab79",
+    "name": "Attribute Enhancement",
+    "aliases": [],
+    "short_description": "A spell cast by Arua Raven to enhance the power of Black Sun Orb, increasing its effectiveness.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Cast by Raven to boost the power of Black Sun Orb before firing."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "b0c038d93f81",
+    "name": "Rafdonia",
+    "aliases": [],
+    "short_description": "The fortress city where explorers are transported after the Labyrinth closes. It is a bustling, modern-style city with tall stone buildings, plumbing, and a structured society with law and order. The city is vast (crossing takes over an hour on foot). It has a Central Plaza where tax evaders are publicly executed by guillotine. There is a superstition that drinking the blood of executed tax evaders brings good fortune with money. The first-year tax for non-humans is 700,000 Stone, increasing thereafter. The city also houses an Exchange Office for Ninth-Rank Explorers, where magic stones can be exchanged for currency; the office is equipped with an emergency button to summon guards, as demonstrated when Bjorn was arrested upon suspicion.",
+    "chapter_mentions": [
+      {
+        "chapter": 15.0,
+        "context": "Revealed as the city where explorers are sent when the labyrinth closes; Bjorn and Erwen plan to meet at the Black Whale Tavern there."
+      },
+      {
+        "chapter": 16.0,
+        "context": "Described in the daytime as a peaceful, modern-feeling city with stone buildings, running water, and a strong sense of law and order, contrasting with the danger of the Labyrinth."
+      },
+      {
+        "chapter": 18.0,
+        "context": "Bjorn and Erwen explore the city, sell loot, and witness executions of tax evaders at the Central Plaza."
+      },
+      {
+        "chapter": 36.0,
+        "context": "Bjorn visits the Exchange Office for Ninth-Rank Explorers to exchange Magic Stones, but is unexpectedly arrested by guards after the official becomes suspicious."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Transportation City",
+        "attributes": {},
+        "notes": "Explorers are moved here when the labyrinth closes each cycle.",
+        "source_chapter": 15.0
+      },
+      {
+        "label": "Appearance",
+        "attributes": {
+          "architecture": "tall stone buildings, mostly over three stories",
+          "amenities": "running water from faucets, modern atmosphere"
+        },
+        "notes": "The main road is bustling with people; buildings are made of stone and often three or more stories high. Water comes from faucets, reminiscent of modern cities. The city appears orderly and safe.",
+        "source_chapter": 16.0
+      }
+    ]
+  },
+  {
+    "id": "6bc1fbc0b5a9",
+    "name": "Exchange Office for Ninth-Rank Explorers",
+    "aliases": [],
+    "short_description": "A government office in Rafdonia where Ninth-Rank Explorers exchange Magic Stones for currency. Staffed by a public official who can summon guards via a hidden emergency button under the desk.",
+    "chapter_mentions": [
+      {
+        "chapter": 36.0,
+        "context": "Bjorn goes to this office to exchange his Magic Stones, but the official becomes suspicious and calls guards, leading to Bjorn's arrest."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "cacac7c0afb7",
+    "name": "Flesh Explosion",
+    "aliases": [],
+    "short_description": "A Supernatural Ability (or Skill) that allows the user to detonate their own flesh. Bjorn used it during the fight with the Vampire Duke, repeatedly to break his cell bars, melt the interrogation room door, and blast the vampire's chest until its heart was destroyed.",
+    "chapter_mentions": [
+      {
+        "chapter": 37.0,
+        "context": "Bjorn casts Flesh Explosion to begin his escape from the Guild's prison and exact revenge."
+      },
+      {
+        "chapter": 38.0,
+        "context": "Used repeatedly to break iron bars, melt a door, and damage the vampire's chest during the prison break."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Usage",
+        "attributes": {},
+        "notes": "Bjorn casts Flesh Explosion at the end of the chapter to escape imprisonment, planning to make the Guild pay.",
+        "source_chapter": 37.0
+      }
+    ]
+  },
+  {
+    "id": "fce6242ea475",
+    "name": "Sacrificial Mark",
+    "aliases": [],
+    "short_description": "A buff skill originally used by Vampire Duke Cambormir, now acquired by Bjorn via the Vampire essence. It marks targets within a 100m radius with a glowing red tattoo on the forehead and temporarily increases the user's physical abilities based on the number of sacrifices. The mark is applied through contact with the user's acidic blood.",
+    "chapter_mentions": [
+      {
+        "chapter": 34.0,
+        "context": null
+      },
+      {
+        "chapter": 38.0,
+        "context": "Bjorn uses the skill during the prison riot, marking dozens of people with his acidic blood to boost his physical abilities."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Activation Condition",
+        "attributes": {
+          "activation_condition": "contact with user's acidic blood"
+        },
+        "notes": null,
+        "source_chapter": 38.0
+      }
+    ]
+  },
+  {
+    "id": "cb88b884a4cc",
+    "name": "Julian Urbans",
+    "aliases": [],
+    "short_description": "Daughter of the Regional Chief; taken hostage by Bjorn during his escape from the Explorer's Guild prison. Remains calm and tries to negotiate with Bjorn, showing a strong will.",
+    "chapter_mentions": [
+      {
+        "chapter": 38.0,
+        "context": "Taken hostage by Bjorn to improve his bargaining position and force the Guild's cooperation."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Composure Under Pressure",
+        "attributes": {},
+        "notes": "Despite being taken hostage, Julian Urbans remained calm, assessed Bjorn's behavior, and attempted to negotiate, showing a strong will and quick thinking.",
+        "source_chapter": 38.0
+      }
+    ]
+  },
+  {
+    "id": "1a827926028b",
+    "name": "Temple",
+    "aliases": [],
+    "short_description": "A religious institution in Rafdonia. Bjorn demands an official Priest from the Temple to be brought to verify his innocence.",
+    "chapter_mentions": [
+      {
+        "chapter": 38.0,
+        "context": "Bjorn demands an official Priest from the Temple to be brought for verification."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "47965ffc1d1d",
+    "name": "Explorer's Guild Branch Chief",
+    "aliases": [],
+    "short_description": "The branch chief of the Rafdonia Explorer's Guild. A former explorer. He is subdued by Bjorn during his escape and forced to comply with demands at knifepoint, with the Regional Chief's daughter as hostage. In the current chapter, he is forced to summon the Investigator, Hartz Young, and a Mage, and to cooperate with Bjorn's plan for a public trial.",
+    "chapter_mentions": [
+      {
+        "chapter": 38.0,
+        "context": "Subdued by Bjorn and forced to cooperate by calling off guards and summoning specific people."
+      },
+      {
+        "chapter": 39.0,
+        "context": "Forced to act as Bjorn's puppet, he summons key individuals and cooperates under duress."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Strategic Compliance",
+        "attributes": {},
+        "notes": "After being subdued and with the Regional Chief's daughter as hostage, the Branch Chief complies with Bjorn's demands to minimize further harm, showing pragmatism.",
+        "source_chapter": 38.0
+      }
+    ]
+  },
+  {
+    "id": "93bce50cbe73",
+    "name": "Rafdonia Royal Family",
+    "aliases": [],
+    "short_description": "The royal family of Rafdonia. They have delegated significant authority related to the Labyrinth to the Explorer's Guild, but strictly adhere to the principle of executing Raiders. Mentioned in the context of hostage negotiation limitations.",
+    "chapter_mentions": [
+      {
+        "chapter": 39.0,
+        "context": "Referenced as the authority that limits the Guild's ability to negotiate with hostage-takers."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "066478dc7c87",
+    "name": "Recording Magic",
+    "aliases": [],
+    "short_description": "A type of magic that records events for evidence. Used by Arua Raven to document the interrogation and events in the Branch Chief's office.",
+    "chapter_mentions": [
+      {
+        "chapter": 39.0,
+        "context": "Used by Raven to record the proceedings, ensuring the truth is captured for later verification."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "aea13fe9a47f",
+    "name": "Niall Urbans",
+    "aliases": [],
+    "short_description": "Regional Chief of the Explorer's Guild, second-in-command below the Guild Master. He is forced to negotiate with Bjorn Yandel after the prison break and hostage crisis, agreeing to dismiss the investigator, sentence Hartz Young to death, promote Bjorn to Rank 7, and pay 5 million Stones in compensation.",
+    "chapter_mentions": [
+      {
+        "chapter": 40.0,
+        "context": "Forced to negotiate with Bjorn Yandel after the prison break and hostage crisis, ultimately agreeing to all demands."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Political Pragmatism",
+        "attributes": {},
+        "notes": "Attempts to bribe Arua Raven to sell the Crystal Orb, then concedes to all demands when the recording is used against him.",
+        "source_chapter": 40.0
+      }
+    ]
+  },
+  {
+    "id": "a96b350886e4",
+    "name": "Execution Ground",
+    "aliases": [],
+    "short_description": "The location where criminals are executed, mentioned as Hartz Young's likely fate.",
+    "chapter_mentions": [
+      {
+        "chapter": 40.0,
+        "context": "Referenced as the destination for Hartz Young after his sentencing."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "aed21471a4fb",
+    "name": "Explorer's Guild",
+    "aliases": [],
+    "short_description": "An organization in Rafdonia that provides services to Explorers. Recent internal regulations target low-rank explorers; Investigator Coldo Bierman unjustly sentenced Bjorn Yandel to death. After Bjorn Yandel's prison break and hostage crisis, the Guild was forced to dismiss the corrupt investigator, sentence Hartz Young to death, compensate Bjorn with 5 million Stones and a rank promotion, and investigate the Crystal Alliance. The incident tarnished its reputation.",
+    "chapter_mentions": [
+      {
+        "chapter": 22.0,
+        "context": "Bjorn and Ainar visited the Explorer's Guild to receive a Binding Spell before entering the Labyrinth."
+      },
+      {
+        "chapter": 37.0,
+        "context": "The Guild, through corrupt Investigator Coldo Bierman, unjustly sentenced Bjorn to death, revealing internal corruption and recent regulatory changes."
+      },
+      {
+        "chapter": 39.0,
+        "context": "The branch is in chaos as Bjorn holds the Branch Chief hostage and demands a public trial, drawing a crowd of onlookers."
+      },
+      {
+        "chapter": 40.0,
+        "context": "Forced to publicly admit its mistakes and compensate Bjorn Yandel after the hostage crisis."
+      }
+    ],
+    "importance": 0.8,
+    "information": [
+      {
+        "label": "Services",
+        "attributes": {
+          "binding_spell_cost": "15,000 Stone for two ninth-rank explorers",
+          "duration": "24 hours"
+        },
+        "notes": "Offers Binding Spell to allow party members to start in the same location upon entering the Labyrinth. The fee increases with higher ranks.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Notable Incident",
+        "attributes": {},
+        "notes": "Investigator Coldo Bierman railroaded Bjorn Yandel on false raiding charges, denied verification, and sentenced him to death, revealing internal corruption and recent regulatory changes.",
+        "source_chapter": 37.0
+      },
+      {
+        "label": "Organizational Response",
+        "attributes": {},
+        "notes": "Dismissed investigator Coldo Bierman, sentenced Hartz Young to Execution Ground, and paid 5 million Stones compensation to Bjorn Yandel.",
+        "source_chapter": 40.0
+      }
+    ]
+  },
+  {
+    "id": "a02f14757bf5",
+    "name": "Coldo Bierman",
+    "aliases": [],
+    "short_description": "An Investigator for the Explorer's Guild in Rafdonia. Corrupt and overbearing, he handled Bjorn Yandel's case, ignoring evidence, denying verification, and sentencing him to death. He is dismissed from his position and faces a thorough investigation into his corruption, orchestrated by the Regional Chief.",
+    "chapter_mentions": [
+      {
+        "chapter": 37.0,
+        "context": "Corrupt Investigator who railroaded Bjorn Yandel, sentencing him to death based on flimsy evidence."
+      },
+      {
+        "chapter": 38.0,
+        "context": "Beaten and knocked out by Bjorn during the prison break."
+      },
+      {
+        "chapter": 39.0,
+        "context": "Brought to the Branch Chief's office, he defends his investigation but is confronted about the lack of magical verification for the testimony."
+      },
+      {
+        "chapter": 40.0,
+        "context": "Dismissed and under investigation for corruption after his framing of Bjorn Yandel is exposed."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "build": "severely obese",
+          "age": "mid-thirties"
+        },
+        "notes": "Overbearing way of speaking, grins slyly after kicking Bjorn.",
+        "source_chapter": 37.0
+      },
+      {
+        "label": "Behavior",
+        "attributes": {},
+        "notes": "Abuses his authority, ignores due process, uses physical intimidation (kicked Bjorn's shin), determined to get a confession by any means.",
+        "source_chapter": 37.0
+      },
+      {
+        "label": "Dismissal",
+        "attributes": {},
+        "notes": "Regional Chief Niall Urbans orders his dismissal and a thorough investigation into his corruption.",
+        "source_chapter": 40.0
+      }
+    ]
+  },
+  {
+    "id": "c56ea2468b22",
+    "name": "Hartz Young",
+    "aliases": [],
+    "short_description": "A member of the Crystal Alliance clan who gave false testimony against Bjorn Yandel, leading to Bjorn's death sentence. He is sentenced to death at the Execution Ground after being exposed for false testimony.",
+    "chapter_mentions": [
+      {
+        "chapter": 11.0,
+        "context": "Raises the bounty on Erwen to 20,000 Stone after being injured."
+      },
+      {
+        "chapter": 39.0,
+        "context": "Beaten and imprisoned in a wardrobe by Bjorn for giving false testimony that resulted in Bjorn's death sentence."
+      },
+      {
+        "chapter": 40.0,
+        "context": "Sentenced to Execution Ground after his false testimony was exposed during the trial."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Bounty",
+        "attributes": {
+          "reward": "20,000 Stone"
+        },
+        "notes": "Offers a reward and the chance to have Erwen first to the one who captures her.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Sentencing",
+        "attributes": {},
+        "notes": "Regional Chief orders his execution for false testimony.",
+        "source_chapter": 40.0
+      }
+    ]
+  },
+  {
+    "id": "9faa6cd22f34",
+    "name": "Vampire Guardian Essence",
+    "aliases": [],
+    "short_description": "The Essence dropped by the Vampire Duke Cambormir after his defeat. Grants stat increases (Strength +15, Agility +15, Magic Resistance +30, Natural Regeneration +40) and the passive skills Source of Darkness and Immortal One. Absorbed by Bjorn.",
+    "chapter_mentions": [
+      {
+        "chapter": 35.0,
+        "context": "Obtained by Bjorn after the Vampire Duke's death, it saves his life by restoring HP and granting new abilities."
+      },
+      {
+        "chapter": 38.0,
+        "context": "Referenced as a reason for Bjorn's quick healing during the prison break."
+      }
+    ],
+    "importance": 0.7,
+    "information": []
+  },
+  {
+    "id": "7bf747a73503",
+    "name": "Altemion School",
+    "aliases": [],
+    "short_description": "The mage school to which Arua Raven belongs.",
+    "chapter_mentions": [
+      {
+        "chapter": 41.0,
+        "context": "Revealed as the school of Arua Raven."
+      }
+    ],
+    "importance": 0.6,
+    "information": []
+  },
+  {
+    "id": "6660deb186b9",
+    "name": "Crystal Orb",
+    "aliases": [],
+    "short_description": "A magical communication device that allows calling and talking to an explorer, used by Arua Raven.",
+    "chapter_mentions": [
+      {
+        "chapter": 41.0,
+        "context": "Used by Raven to contact Mr. Patran to verify the consequences of forcing an Essence."
+      }
+    ],
+    "importance": 0.5,
+    "information": []
+  },
+  {
+    "id": "ff31c3ce0bcb",
+    "name": "Mr. Patran",
+    "aliases": [],
+    "short_description": "An explorer contacted via Crystal Orb by Arua Raven. He confirms that forcing an unplanned Essence onto someone requires compensation of 15 million Stone or death.",
+    "chapter_mentions": [
+      {
+        "chapter": 41.0,
+        "context": "Queried by Raven about the consequences of forcing an Essence, providing a clear answer that supports Bjorn's argument."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "a4efdc0e883a",
+    "name": "Mage Tower",
+    "aliases": [],
+    "short_description": "An organization of mages in Rafdonia. Bjorn demands a mage from the tower to be brought to verify his innocence. In this chapter, the Mage Tower dispatches Sixth-Rank Mage Arua Raven to support the branch in response to an official request. It is a tall black spire with 31 floors, windowless, located in the city. Arua Raven's personal lab is on the 31st floor.",
+    "chapter_mentions": [
+      {
+        "chapter": 38.0,
+        "context": "Bjorn demands a mage from the Mage Tower to be brought for verification purposes."
+      },
+      {
+        "chapter": 39.0,
+        "context": "Responds to the branch's request for support by sending a Sixth-Rank Mage."
+      },
+      {
+        "chapter": 41.0,
+        "context": "Mentioned as the tall black spire where Arua Raven's personal lab is located on the 31st floor."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {},
+        "notes": "A black spire soaring high into the sky, built high due to regulations prohibiting windows in tall buildings in the city.",
+        "source_chapter": 41.0
+      }
+    ]
+  },
+  {
+    "id": "ff2e52636c33",
+    "name": "Deian Tveherion",
+    "aliases": [],
+    "short_description": "Master of the Altemion School, a senior mage with white hair and wrinkled skin but spry. He enters Raven's lab and offers the Frost Spirit Ring as compensation to Bjorn. He has a jovial personality but can be calculating.",
+    "chapter_mentions": [
+      {
+        "chapter": 42.0,
+        "context": "Introduced as Raven's master, who offers the Frost Spirit Ring and later reflects on Bjorn's peculiarity."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "hair": "white",
+          "build": "spry",
+          "skin": "wrinkled"
+        },
+        "notes": "White-haired old man with wrinkled skin, back not bent, looks remarkably spry for his age.",
+        "source_chapter": 42.0
+      },
+      {
+        "label": "Jovial Personality",
+        "attributes": {},
+        "notes": "Laughs heartily, makes jokes about dead barbarians, and engages in banter with Bjorn.",
+        "source_chapter": 42.0
+      },
+      {
+        "label": "Calculating Nature",
+        "attributes": {},
+        "notes": "Had a purpose for matching Bjorn's high tension, later reveals he wanted to confirm something about Bjorn.",
+        "source_chapter": 42.0
+      }
+    ]
+  },
+  {
+    "id": "b33b05a9932a",
+    "name": "Frost Spirit Ring",
+    "aliases": [],
+    "short_description": "A Numbers Item (no. 9425) that can seal the skills of one absorbed Essence while retaining stats. Rare, worth about 1.5 million Stones. Given by Deian to Bjorn as compensation.",
+    "chapter_mentions": [
+      {
+        "chapter": 42.0,
+        "context": "Offered by Deian as a substitute for 5 million Stones compensation; Bjorn accepts it."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Effect",
+        "attributes": {
+          "type": "Numbers Item",
+          "number": 9425.0,
+          "effect": "Seals skills of one absorbed Essence, stats still apply",
+          "rarity": "rare",
+          "value": "~1.5 million Stones"
+        },
+        "notes": "Used by early-stage explorers who value stats over skill combinations; can be removed to reactivate skills.",
+        "source_chapter": 42.0
+      }
+    ]
+  },
+  {
+    "id": "06746011e877",
+    "name": "Holy Land",
+    "aliases": [],
+    "short_description": "A communal child-rearing facility for Barbarians, where children are sent by parents who are warriors. Also a place where Barbarians go to learn from elders (e.g., learning to write) and to receive Spirit Engravings from the Tribe Chief. This chapter reveals its role in performing Spirit Engravings. Additionally, it is a sacred training ground where Ainar will train under an elder for six months.",
+    "chapter_mentions": [
+      {
+        "chapter": 17.0,
+        "context": "Referred to as the place where non-humans grow up until their coming of age, explaining the significance of the first return ale."
+      },
+      {
+        "chapter": 19.0,
+        "context": "Ainar plans to visit the Holy Land to learn to read from the elders."
+      },
+      {
+        "chapter": 20.0,
+        "context": "Bjorn and Ainar visit the Holy Land to meet the Tribe Chief for the Spirit Engraving."
+      },
+      {
+        "chapter": 43.0,
+        "context": "Ainar decides to train here for six months under an elder, learning a special swordsmanship technique."
+      }
+    ],
+    "importance": 0.8,
+    "information": [
+      {
+        "label": "Function for Barbarians",
+        "attributes": {},
+        "notes": "Serves as a place for Barbarians to learn to read and to receive Spirit Engravings. The Tribe Chief resides there and performs the engravings. Also functions as a child-rearing facility.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Training Ground",
+        "attributes": {},
+        "notes": "Ainar decides to train here for six months under an elder, learning a special swordsmanship technique, making her unavailable for Labyrinth expeditions.",
+        "source_chapter": 43.0
+      }
+    ]
+  },
+  {
+    "id": "5138a2fe20f1",
+    "name": "Ainar",
+    "aliases": [],
+    "short_description": "A female Barbarian explorer, second daughter of Fenelin, who partners with Bjorn. She absorbed the Bone Knight Essence, gaining increased cutting power and Life Drain. In the Vampire Duke battle, she assists by drawing aggro and supporting Murad. After the battle, she stayed with Bjorn for three days while he was unconscious, giving him a lap pillow, clothing him with a makeshift skirt, and insisting on waiting for him to wake up while the others left. In Chapter 43, she decides to formally learn swordsmanship under an elder at the Holy Land for six months, leaving Bjorn alone.",
+    "chapter_mentions": [
+      {
+        "chapter": 19.0,
+        "context": "Encountered Bjorn in the Library; she plans to learn to read at the Holy Land and offered help at the Raging Horn Bull Inn."
+      },
+      {
+        "chapter": 20.0,
+        "context": "After sparring, Ainar agrees to become Bjorn's companion with an 8:2 split in his favor."
+      },
+      {
+        "chapter": 21.0,
+        "context": "Began daily sparring sessions with Ainar, observing her predictable fighting patterns."
+      },
+      {
+        "chapter": 22.0,
+        "context": "Became Bjorn's loyal companion, pledged loyalty by Warrior's Honor, and followed him into the Labyrinth using the Binding Spell."
+      },
+      {
+        "chapter": 23.0,
+        "context": "Ainar fights alongside Bjorn in the Land of the Dead, showing fear of Banshees but bravery against the Death Fiend, executing a takedown and dealing damage."
+      },
+      {
+        "chapter": 26.0,
+        "context": "Reluctantly swears the Oath to save her life, struggles with the humiliation of being spared."
+      },
+      {
+        "chapter": 28.0,
+        "context": "Insists that Bjorn should lead the party instead of the Mage, praising his wisdom and loyalty."
+      },
+      {
+        "chapter": 30.0,
+        "context": null
+      },
+      {
+        "chapter": 32.0,
+        "context": "Absorbs the Bone Knight Essence, becoming significantly stronger but shorter, and worrying about her warrior image."
+      },
+      {
+        "chapter": 35.0,
+        "context": "Assists Bjorn in the final battle against the Vampire Duke, drawing aggro and supporting the wounded Murad."
+      },
+      {
+        "chapter": 36.0,
+        "context": "Cared for the unconscious Bjorn for three days, providing comfort and clothing, and remained with him until he woke up."
+      },
+      {
+        "chapter": 43.0,
+        "context": "Decides to formally learn swordsmanship under an elder at the Holy Land for six months, leaving Bjorn alone."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Determination to Learn",
+        "attributes": {},
+        "notes": "Realized she needed knowledge to think; found reading difficult but decided to go to the Holy Land to learn from elders.",
+        "source_chapter": 19.0
+      },
+      {
+        "label": "Combat Skills",
+        "attributes": {
+          "weapon": "sword",
+          "skill_level": "high"
+        },
+        "notes": "Sparred with Bjorn multiple times; beat him within 3 minutes each time. Considered among the top ranks of Barbarians in the group.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Companion Agreement",
+        "attributes": {},
+        "notes": "Accepted Bjorn's offer to be his companion with an 8:2 split (Bjorn 80%, Ainar 20%), trusting Bjorn with the distribution.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Combat Style",
+        "attributes": {},
+        "notes": "Skilled swordsman with a predictable pattern that Bjorn exploited. She is open to advice but struggles to change ingrained habits. Her sparring is intense and sweaty.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Character Traits",
+        "attributes": {},
+        "notes": "Pledged loyalty to Bjorn by Warrior's Honor; previously ate only Stone Bread; now enjoys normal food; follows Bjorn without question; altruistic - helped lost barbarians navigate to the Labyrinth.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Fear Response",
+        "attributes": {},
+        "notes": "Shows fear of supernatural undead like Banshees, clenching her jaw and clinging to Bjorn when frightened, but manages to fight bravely.",
+        "source_chapter": 23.0
+      },
+      {
+        "label": "Combat Prowess",
+        "attributes": {},
+        "notes": "Demonstrated ability to perform a single-leg takedown on a 3-meter tall Death Fiend, enabling Bjorn to strike its head. Her Greatsword can cleave through skeletons and inflict significant damage on eighth-rank monsters.",
+        "source_chapter": 23.0
+      },
+      {
+        "label": "Pride and Humiliation",
+        "attributes": {},
+        "notes": "Ainar is deeply humiliated by having to swear the Oath, stating that 'for someone who is no longer a warrior, there is no right to feel pain.' She struggles to overcome her pride.",
+        "source_chapter": 26.0
+      },
+      {
+        "label": "Composure in Crisis",
+        "attributes": {},
+        "notes": "Stayed calm when the party was stunned by the Corpse Golem's appearance, grabbing the Dwarf by the scruff of his neck and lifting him out of harm's way, saving him from an explosive corpse attack.",
+        "source_chapter": 30.0
+      },
+      {
+        "label": "Post-Essence Stats",
+        "attributes": {
+          "Cutting Power": "+12",
+          "Bone Density": "+55",
+          "Agility": "+15",
+          "Endurance": "+15",
+          "Flexibility": "-7",
+          "Height": "-25"
+        },
+        "notes": "Absorbed Bone Knight Essence (Yearning type); gained Life Drain active ability and Preservative passive.",
+        "source_chapter": 32.0
+      },
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "late 170cm range",
+          "original_height": "around 2 meters"
+        },
+        "notes": "Height decreased; facial bones became smaller; now could pass for a tall human woman without tattoos.",
+        "source_chapter": 32.0
+      },
+      {
+        "label": "Training Decision",
+        "attributes": {},
+        "notes": "Decides to train under an elder at the Holy Land for six months, mastering a special swordsmanship technique, and cannot enter the Labyrinth during that time.",
+        "source_chapter": 43.0
+      }
+    ]
+  },
+  {
+    "id": "af55da962d7e",
+    "name": "Primordial Relic",
+    "aliases": [],
+    "short_description": "One of six key items needed to open the Gate of the Abyss; recently stolen on the day of Bjorn and Ainar's Coming of Age Ceremony, blocking Bjorn's potential escape from the world.",
+    "chapter_mentions": [
+      {
+        "chapter": 43.0,
+        "context": "Revealed to have been stolen on the day of Bjorn and Ainar's Coming of Age Ceremony, blocking potential escape from the world."
+      }
+    ],
+    "importance": 0.9,
+    "information": [
+      {
+        "label": "Key Item",
+        "attributes": {
+          "required_for": "Gate of the Abyss",
+          "total": 6.0,
+          "status": "stolen"
+        },
+        "notes": "The Primordial Relics are kept by the six tribes (Dwarf, Barbarian, Fairy, Beastkin, Dragonkin, Human). The theft occurred on the day of the Coming of Age Ceremony, and it is unknown which other tribes may have been affected.",
+        "source_chapter": 43.0
+      }
+    ]
+  },
+  {
+    "id": "4ca7f65aaec3",
+    "name": "Barbarian Inn",
+    "aliases": [],
+    "short_description": "Inn exclusive to Barbarians in Rafdonia where Bjorn sought Ainar and heard rumors of the Barbarian of Freedom.",
+    "chapter_mentions": [
+      {
+        "chapter": 43.0,
+        "context": "Bjorn visited to find Ainar but learned she had left for the Holy Land."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "3247af4daf7c",
+    "name": "Commelby",
+    "aliases": [],
+    "short_description": "Free market area surrounding the Imperial Capital Karnon, also known as the Commercial District covering Zones 2 to 5. It is the most commercially active place in the city, home to the middle class, artisans, and shops.",
+    "chapter_mentions": [
+      {
+        "chapter": 43.0,
+        "context": "Bjorn visited with Ainar to sell equipment and buy items."
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Commercial Hub",
+        "attributes": {
+          "location": "Zones 2 to 5 around Imperial Capital Karnon",
+          "area_type": "free market"
+        },
+        "notes": "Bjorn visited with Ainar to sell equipment and buy items. Crowded and bustling.",
+        "source_chapter": 43.0
+      }
+    ]
+  },
+  {
+    "id": "4290ac3e90b8",
+    "name": "Arua Raven",
+    "aliases": [
+      {
+        "name": "Raven",
+        "context": "Common form of her name used by her party.",
+        "first_chapter": 29
+      }
+    ],
+    "short_description": "A Sixth-Rank Mage of the Mage Tower who joins Bjorn's party for the Rift expedition. She is proud, loves to show off, and is passionate about magic and research. She uses spells such as Flash Explosion, Black Sun Orb, etc. After the Vampire Duke fight, she took the Rift Stone and Necronomicon. She is dispatched by the Mage Tower to support the Guild branch, uses recording magic to document the interrogation, and secures a 1 million Stones service fee by blackmailing the Regional Chief. She is a member of the Altemion School. After the Guild incident, she proposes exclusive research on Bjorn's Vampire Essence and bargains for a share of the compensation. Later, she brings Bjorn to her lab and becomes uneasy when her master Deian shows unusual interest in Bjorn. In this chapter, she examines Bjorn's Essence, reveals its four skills, and begins to suspect Bjorn used the Tear of the Goddess, researching it in her book and becoming determined to uncover his secret.",
+    "chapter_mentions": [
+      {
+        "chapter": 28.0,
+        "context": "Joins the Rift party and immediately asserts leadership, claiming the Guardian's spoils for herself."
+      },
+      {
+        "chapter": 29.0,
+        "context": "Negotiated loot distribution and provided crucial magical support during the battles in the Bloodstained Fortress."
+      },
+      {
+        "chapter": 30.0,
+        "context": "Though she led the party effectively, Raven showed vulnerability to the putrid smell of the Corpse Golem's lair, vomiting alongside the porter."
+      },
+      {
+        "chapter": 31.0,
+        "context": "Suffered a backlash after forcing herself to cast a spell while nauseated, but later agreed to trade the Corpse Golem Essence for the Guardian's Essence."
+      },
+      {
+        "chapter": 32.0,
+        "context": "Demonstrates her knowledge by finding a hidden compartment with a Necronomicon and explaining the Bone Knight Essence's effects."
+      },
+      {
+        "chapter": 33.0,
+        "context": "Uses Flash Explosion to blind the vampire, then later faints from Pain Sharing backlash; reveals she knows Black Sun Orb and plans to enhance it."
+      },
+      {
+        "chapter": 35.0,
+        "context": "Casts Black Sun Orb to damage the Vampire Duke, but the explosion also catches the party, causing them to be stunned."
+      },
+      {
+        "chapter": 36.0,
+        "context": "After the battle, she took the Necronomicon and Rift Stone, used potions on Bjorn, and waited three days before leaving through the portal."
+      },
+      {
+        "chapter": 39.0,
+        "context": "Sent to the branch as support, she uses recording magic to document the interrogation and reveals the Investigator's statements are truthful, but challenges the lack of magical confirmation for the testimony."
+      },
+      {
+        "chapter": 40.0,
+        "context": "Uses recording magic to document the interrogation and negotiates a 1 million Stones service fee for herself."
+      },
+      {
+        "chapter": 41.0,
+        "context": "Proposes exclusive research on Bjorn's Vampire Essence and negotiates for a share of compensation."
+      },
+      {
+        "chapter": 42.0,
+        "context": "Brings Bjorn to her lab and becomes worried after her master Deian shows unusual interest in him."
+      },
+      {
+        "chapter": 44.0,
+        "context": "Examines Bjorn's Essence, reveals its four skills, then researches the Tear of the Goddess, becoming suspicious of Bjorn's secrets."
+      }
+    ],
+    "importance": 0.8,
+    "information": [
+      {
+        "label": "Rank",
+        "attributes": {
+          "rank": "Sixth-Rank"
+        },
+        "notes": "Class: Mage",
+        "source_chapter": 28.0
+      },
+      {
+        "label": "Personality",
+        "attributes": {},
+        "notes": "Pretends to be humble but loves to show off; passionate about magic and research; responds positively to admiration.",
+        "source_chapter": 28.0
+      },
+      {
+        "label": "Magic Skills",
+        "attributes": {
+          "spells": [
+            "Blade Storm",
+            "Curse Dispelling",
+            "Wound Aggravation"
+          ]
+        },
+        "notes": "Demonstrated during the Bloodstained Fortress expedition, including area-of-effect and curse spells.",
+        "source_chapter": 29.0
+      },
+      {
+        "label": "Weakness: Strong Odors",
+        "attributes": {},
+        "notes": "Vomited from the stench in the Corpse Golem's lair, despite being resistant to gory sights from her anatomical studies.",
+        "source_chapter": 30.0
+      },
+      {
+        "label": "Vulnerability to Strong Odors",
+        "attributes": {},
+        "notes": "Vomited from the stench of the Corpse Golem's lair, leading to a spellcasting backlash (circuit severance) that nearly incapacitated her.",
+        "source_chapter": 31.0
+      },
+      {
+        "label": "Arcane Knowledge",
+        "attributes": {},
+        "notes": "Knows about hidden compartments in the Demon Worship Hall and the properties of the Bone Knight Essence, including its Life Drain and Height reduction effects.",
+        "source_chapter": 32.0
+      },
+      {
+        "label": "Spells",
+        "attributes": {
+          "support": "Flash Explosion",
+          "attack_sun": "Black Sun Orb (Sixth-Rank)",
+          "enhancement": "Attribute Enhancement"
+        },
+        "notes": "Uses Flash Explosion to blind enemies. Plans to cast Attribute Enhancement on Black Sun Orb.",
+        "source_chapter": 33.0
+      },
+      {
+        "label": "Spells Used",
+        "attributes": {
+          "Black_Sun_Orb": "Sixth-rank attack magic with sun attribute",
+          "Attribute_Enhancement": "Enhances the power of Black Sun Orb"
+        },
+        "notes": "Raven completed the casting of Black Sun Orb after preparing for several minutes. She also used Attribute Enhancement to boost its power. The spell successfully hit the vampire but also stunned the party due to the explosion.",
+        "source_chapter": 35.0
+      },
+      {
+        "label": "Negotiation Skill",
+        "attributes": {},
+        "notes": "Blackmailed the Regional Chief with the recorded conversation to secure a 1 million Stones service fee.",
+        "source_chapter": 40.0
+      }
+    ]
+  },
+  {
+    "id": "5aa8df51a7e1",
+    "name": "Tear of the Goddess",
+    "aliases": [],
+    "short_description": "A one-time use Sacred Artifact of unknown origin. When destroyed, it spreads a powerful 'Grace' at that location. Used 150 years ago by Cardinal Androne to save the Pope, after which it vanished from the world. Bjorn retrieved one from a broken fountain statue in the Bloodstained Fortress courtyard and used it against the Vampire Duke. Raven suspects Bjorn possesses it and is investigating.",
+    "chapter_mentions": [
+      {
+        "chapter": 33.0,
+        "context": null
+      },
+      {
+        "chapter": 34.0,
+        "context": "Retrieved earlier and kept hidden in boot, considered for use against Vampire Duke."
+      },
+      {
+        "chapter": 35.0,
+        "context": "Used by Bjorn to temporarily seal the Vampire Duke's resistances and cause damage, then destroyed."
+      },
+      {
+        "chapter": 44.0,
+        "context": "Raven discovers that Bjorn used the Tear of the Goddess against the Vampire Duke and learns its historical significance."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Discovery",
+        "attributes": {},
+        "notes": "Retrieved from a broken fountain statue in the fortress courtyard after the party escaped the vampire; Bjorn stashes it in his boot groove. The game message confirms acquisition: 'Character has acquired [Tear of the Goddess].'",
+        "source_chapter": 33.0
+      },
+      {
+        "label": "Properties",
+        "attributes": {
+          "type": "Sacred Artifact",
+          "effect": "Heals ally or damages Evil Attribute monsters",
+          "usage": "One-time use"
+        },
+        "notes": "Hidden in Bjorn's boot for emergency use against the Vampire Duke.",
+        "source_chapter": 34.0
+      },
+      {
+        "label": "Usage",
+        "attributes": {},
+        "notes": "Bjorn shoved the Tear of the Goddess into the vampire's mouth and forced its jaw shut. The item was destroyed, triggering Grace which temporarily sealed the vampire's resistances and caused great internal damage.",
+        "source_chapter": 35.0
+      }
+    ]
+  },
+  {
+    "id": "ac0c77eda8f3",
+    "name": "Vampire Guardian Essence",
+    "aliases": [],
+    "short_description": "The specific Guardian's Essence dropped by the Vampire Duke Cambormir in the Bloodstained Fortress. Absorbed by Bjorn Yandel. Stats: Natural Regeneration +45, Strength +15, Agility +15, Magic Resistance +30, Physical Resistance +12, Soul Power +21, Mana Sensitivity +30, Dark Resistance +12, Sunlight Resistance -12. Skills: (P) Source of Darkness, (A) Sacrificial Mark, (A) Immortal One, (A) Blood Master.",
+    "chapter_mentions": [
+      {
+        "chapter": 44.0,
+        "context": "Raven reveals the exact stats and four skills of the Vampire Guardian Essence to Bjorn after examination."
+      }
+    ],
+    "importance": 0.9,
+    "information": [
+      {
+        "label": "Base Stats",
+        "attributes": {
+          "Natural Regeneration": 45.0,
+          "Strength": 15.0,
+          "Agility": 15.0,
+          "Magic Resistance": 30.0,
+          "Physical Resistance": 12.0,
+          "Soul Power": 21.0,
+          "Mana Sensitivity": 30.0,
+          "Dark Resistance": 12.0,
+          "Sunlight Resistance": -12.0
+        },
+        "notes": null,
+        "source_chapter": 44.0
+      },
+      {
+        "label": "Skills",
+        "attributes": {
+          "skills": [
+            "Source of Darkness (Passive)",
+            "Sacrificial Mark (Active)",
+            "Immortal One (Active)",
+            "Blood Master (Active)"
+          ]
+        },
+        "notes": null,
+        "source_chapter": 44.0
+      }
+    ]
+  },
+  {
+    "id": "0f0d487aa1d6",
+    "name": "Chronicles of the Rift III",
+    "aliases": [],
+    "short_description": "An old book containing knowledge about Rifts, including the Bloodstained Fortress. It details hidden passages, how to obtain the Necronomicon from the Demon Worship Hall, and mentions the Tear of the Goddess and Golden Mask with their acquisition methods partially erased by weathering. Raven owns it and uses it to research the Tear of the Goddess.",
+    "chapter_mentions": [
+      {
+        "chapter": 44.0,
+        "context": "Raven reads the book to investigate the Tear of the Goddess, confirming its origin and effect."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "a024aab3091a",
+    "name": "Hans",
+    "aliases": [],
+    "short_description": "An Explorer Bjorn meets at an inn after Ainar leaves. He advises Bjorn to use the Guild to find new party members, noting that recording orbs have become mandatory to prevent betrayal. He treats Bjorn to drinks and offers friendly advice.",
+    "chapter_mentions": [
+      {
+        "chapter": 44.0,
+        "context": "Approaches Bjorn at the inn and suggests using the Guild to find companions, convincing Bjorn to give it a try."
+      }
+    ],
+    "importance": 0.25,
+    "information": []
+  },
+  {
+    "id": "dbfe69a5c766",
+    "name": "Cardinal Androne",
+    "aliases": [],
+    "short_description": "A historical figure who used all three Tears of the Goddess 150 years ago during the Dimensional Collapse to save the Pope, after which the artifacts vanished.",
+    "chapter_mentions": [
+      {
+        "chapter": 44.0,
+        "context": "Mentioned in Raven's book as the user of the Tear of the Goddess during the Dimensional Collapse."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "b975b9aed22b",
+    "name": "Dimensional Collapse",
+    "aliases": [],
+    "short_description": "A historical event that occurred 150 years ago, during which Cardinal Androne used the Tears of the Goddess to save the Pope. Referenced in the Chronicles of the Rift III.",
+    "chapter_mentions": [
+      {
+        "chapter": 44.0,
+        "context": "Mentioned as the time when Cardinal Androne used the Tear of the Goddess."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "62834426f43e",
+    "name": "Terves",
+    "aliases": [],
+    "short_description": "A polite and efficient guild administrator who processed Bjorn's request for companions at the Explorer's Guild near the Mage Tower.",
+    "chapter_mentions": [
+      {
+        "chapter": 45.0,
+        "context": "Handles Bjorn's registration for finding party members; his overly polite and perfect mannerisms strike Bjorn as strange."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "f295558fb249",
+    "name": "Erwen Fornachi di Tersia",
+    "aliases": [
+      {
+        "name": "Erwen",
+        "context": "Short form, revealed during introduction",
+        "first_chapter": 9
+      },
+      {
+        "name": "Erwen Witember di Tersia",
+        "context": "Alternative full name revealed in chapter 28",
+        "first_chapter": 28
+      }
+    ],
+    "short_description": "A 20-year-old Fairy explorer, younger sister of Daria Witember di Tersia. After returning from a Labyrinth expedition with her sister, she searched for Bjorn at his inn only to be told he was dead; she resolved to become stronger. She has been training intensely, summoning spirits constantly, and now hears the voice of the fire, developing a desperate and malicious determination.",
+    "chapter_mentions": [
+      {
+        "chapter": 8.0,
+        "context": "Encountered by Bjorn while injured; initially feared him but accepted his offer of help."
+      },
+      {
+        "chapter": 9.0,
+        "context": "Introduced by full name, becomes Bjorn's Night Companion after swearing a mutual oath."
+      },
+      {
+        "chapter": 10.0,
+        "context": "Reveals her pursuers are the Crystal Alliance, demonstrates bow and fire spirit magic, kills Serdin."
+      },
+      {
+        "chapter": 11.0,
+        "context": "Kills Serdin and agrees to accompany Bjorn to the Second Floor with a 9:1 split."
+      },
+      {
+        "chapter": 12.0,
+        "context": "Confidently detects and avoids traps, scouts ahead, and shoots a goblin with precision, proving her value as a partner."
+      },
+      {
+        "chapter": 17.0,
+        "context": "Meets Bjorn at Paidenfuss tavern, refuses his party offer to join her sister Tersia, but later invites him to her room to demonstrate her Supernatural Ability."
+      },
+      {
+        "chapter": 18.0,
+        "context": "Accompanies Bjorn to sell loot, displays greed for money, and they part ways at the Central Plaza."
+      },
+      {
+        "chapter": 19.0,
+        "context": "Successfully contracted a Wind Spirit and visited Bjorn in the morning to show off."
+      },
+      {
+        "chapter": 28.0,
+        "context": "Under training by her sister Tersia on the First Floor, growing stronger and eager to rejoin Bjorn."
+      },
+      {
+        "chapter": 37.0,
+        "context": "Returns from a Labyrinth expedition only to find Bjorn missing and presumed dead; resolves to become stronger."
+      },
+      {
+        "chapter": 45.0,
+        "context": "Shown training relentlessly at the inn, hearing the voice of the fire and becoming more desperate and driven, which concerns her sister Daria."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Character Development",
+        "attributes": {},
+        "notes": "After being told Bjorn is dead, she squatted in front of the inn for two days, then decided to become stronger.",
+        "source_chapter": 37.0
+      },
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "~1.6m",
+          "eyes": "amber, cat-like",
+          "ears": "pointy",
+          "build": "tiny"
+        },
+        "notes": "Pointy-eared, tiny frame.",
+        "source_chapter": 8.0
+      },
+      {
+        "label": "Personality",
+        "attributes": {},
+        "notes": "Initially extremely timid and wary, but after forming an oath with Bjorn, shows curiosity and a more relaxed side.",
+        "source_chapter": 8.0
+      },
+      {
+        "label": "Background",
+        "attributes": {},
+        "notes": "Has a younger sibling in the city. Belongs to the Fornachi di Tersia tribe.",
+        "source_chapter": 9.0
+      },
+      {
+        "label": "Bow Proficiency",
+        "attributes": {},
+        "notes": "Skillful with a bow; shot Serdin through the forehead without hesitation when Bjorn gave the signal.",
+        "source_chapter": 10.0
+      },
+      {
+        "label": "Fire Spirit Magic",
+        "attributes": {
+          "element": "fire",
+          "type": "spirit magic"
+        },
+        "notes": "Can summon a flame spirit to provide light and likely for combat.",
+        "source_chapter": 10.0
+      },
+      {
+        "label": "Combat Resolve",
+        "attributes": {},
+        "notes": "Despite initial hesitation, she killed a human pursuer decisively when ordered by Bjorn, showing she can take lethal action when necessary.",
+        "source_chapter": 10.0
+      },
+      {
+        "label": "Archery Skill",
+        "attributes": {},
+        "notes": "Shoots Goblins at point-blank range with precision; aims for the space between the eyes; recovers arrows after use.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Spirit Magic",
+        "attributes": {},
+        "notes": "Summons a fist-sized flame that can last up to ten hours for illumination.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Determination",
+        "attributes": {},
+        "notes": "Expresses eagerness to earn money for her younger brother; agrees to the 9:1 split without protest.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Trap Detection",
+        "attributes": {},
+        "notes": "Demonstrates excellent trap detection ability, spotting a hidden trap under leaves from a distance in the darkness of the Goblin Forest. She is also able to scout silently and determine enemy positions.",
+        "source_chapter": 12.0
+      },
+      {
+        "label": "Wind Spirit Contract",
+        "attributes": {},
+        "notes": "Successfully contracted a Wind Spirit using a Spirit Stone after about 10 tries, spending a fortune. The Wind Spirit allows her to alter arrow trajectory or shoot faster.",
+        "source_chapter": 19.0
+      }
+    ]
+  },
+  {
+    "id": "da2ec1b08dc5",
+    "name": "Daria Witember di Tersia",
+    "aliases": [],
+    "short_description": "A silver-haired fifth-year Fairy Explorer, elder sister of Erwen. She currently trains her sister on the First Floor, preparing for the Rift. Protective of her sister, she decides to withhold news about the Barbarian of Freedom to keep Erwen focused.",
+    "chapter_mentions": [
+      {
+        "chapter": 17.0,
+        "context": "Arrives at Paidenfuss tavern to retrieve Erwen, pays Bjorn for his share, and takes her sister into her party."
+      },
+      {
+        "chapter": 28.0,
+        "context": "Training her younger sister Erwen on the First Floor, preparing for the impending Rift opening."
+      },
+      {
+        "chapter": 45.0,
+        "context": "Observed overhearing a conversation about the Barbarian of Freedom and deciding not to inform her sister, showing her protective nature."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Protective and Cautious",
+        "attributes": {},
+        "notes": "After overhearing rumors about the Barbarian of Freedom, Daria decided not to tell her sister Erwen, believing it would be best for her to stay focused on training.",
+        "source_chapter": 45.0
+      }
+    ]
+  },
+  {
+    "id": "c5987c50a09a",
+    "name": "Crystal Alliance",
+    "aliases": [],
+    "short_description": "An Explorer Clan that built a wide communication network using Message Stones, recently dismantled due to corruption and involvement in the false accusation against Bjorn Yandel. Their executive Hartz Young attacked Erwen, and she severed his genitals in self-defense. They have been pursuing her since, using Message Stones to coordinate. Bjorn Yandel demanded that the Explorer's Guild investigate the Crystal Alliance for their role in the false testimony of Hartz Young.",
+    "chapter_mentions": [
+      {
+        "chapter": 10.0,
+        "context": "Revealed to be the group hunting Erwen after she severed an executive's genitals; they use Message Stones to coordinate tracking."
+      },
+      {
+        "chapter": 11.0,
+        "context": "Hartz Young raises reward for Erwen to 20,000 Stone; they use Message Stones to coordinate."
+      },
+      {
+        "chapter": 40.0,
+        "context": "Bjorn Yandel demands an investigation into the Crystal Alliance for their involvement in the false testimony."
+      },
+      {
+        "chapter": 45.0,
+        "context": "Heard to have been dismantled due to corruption and ties to the false accusation against Bjorn, providing a topic of conversation among explorers at the tavern."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Communication Method",
+        "attributes": {
+          "tool": "Message Stone",
+          "range": "300 meters"
+        },
+        "notes": null,
+        "source_chapter": 10.0
+      },
+      {
+        "label": "Modus Operandi",
+        "attributes": {},
+        "notes": "Uses coordinated pursuit via Message Stones; operatives relay location information to converge on targets.",
+        "source_chapter": 10.0
+      },
+      {
+        "label": "Operations",
+        "attributes": {},
+        "notes": "Members use Message Stones for short-range communication; they coordinate pursuit of Erwen across the First Floor.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Leadership",
+        "attributes": {},
+        "notes": "Executive Hartz Young offers a reward of 20,000 Stone and a claim on Erwen to motivate members.",
+        "source_chapter": 11.0
+      }
+    ]
+  },
+  {
+    "id": "e6f7ba9e622a",
+    "name": "Golden Mask",
+    "aliases": [],
+    "short_description": "A unique helmet that allows the wearer to customize their facial appearance for thirty days, with a limited number of uses (max five times); obtainable after defeating the boss of the Bloodstained Fortress and satisfying special conditions. It is a consumable item worth about 500,000 Stone on the Exchange.",
+    "chapter_mentions": [
+      {
+        "chapter": 44.0,
+        "context": "Listed in the book alongside the Tear of the Goddess, but details are illegible."
+      },
+      {
+        "chapter": 45.0,
+        "context": null
+      }
+    ],
+    "importance": 0.3,
+    "information": [
+      {
+        "label": "Effect",
+        "attributes": {
+          "effect": "Allows wearer to customize facial appearance for 30 days",
+          "uses": 5.0,
+          "value": "500000 Stone"
+        },
+        "notes": "Consumable item that disappears after use limit is reached.",
+        "source_chapter": 45.0
+      }
+    ]
+  },
+  {
+    "id": "c5375f5957e5",
+    "name": "Tarikan, son of Riyen",
+    "aliases": [],
+    "short_description": "An Evil Spirit (player reincarnated) from another world, summoned into the body of a Barbarian named Tarikan son of Riyen a month before Bjorn. He survived his Coming of Age Ceremony by being the last called, avoiding detection. However, he failed to enter the Labyrinth due to fear, sold his starting weapon for 50,000 Stone, and has been struggling to survive for three months, homeless and starving. He approached Bjorn for help; Bjorn gave him 150,000 Stone and told him never to return.",
+    "chapter_mentions": [
+      {
+        "chapter": 45.0,
+        "context": "Discovered by Bjorn in a street corner, a destitute Barbarian without a weapon; Bjorn quickly identifies him as a newly arrived Evil Spirit."
+      },
+      {
+        "chapter": 46.0,
+        "context": "Bjorn encounters Tarikan, gives him 150,000 Stone, and warns him to never seek him again."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "beard": "shaggy",
+          "clothing": "tattered and dirt-stained pants"
+        },
+        "notes": "Leaning against an alley wall, looking utterly miserable and beggarly.",
+        "source_chapter": 45.0
+      },
+      {
+        "label": "Behavioral Traits",
+        "attributes": {},
+        "notes": "Uses formal speech (e.g., 'I… I am Ta-Tarikan, son of Riyen!'), is easily startled, and sold his weapon due to poverty. Bjorn suspects he is an Evil Spirit (reincarnated being from another world) due to lacking the typical Barbarian pride and weapon.",
+        "source_chapter": 45.0
+      },
+      {
+        "label": "Background and Struggles",
+        "attributes": {},
+        "notes": "Summoned a month before Bjorn, survived the Coming of Age Ceremony by being the last called. Sold his starting weapon for 50,000 Stone and has been homeless and starving for three months, unable to adapt to the Barbarian lifestyle.",
+        "source_chapter": 46.0
+      }
+    ]
+  },
+  {
+    "id": "3d6e7400c1a9",
+    "name": "Bjorn Yandel",
+    "aliases": [
+      {
+        "name": "Bjorn",
+        "context": "Short form of Bjorn Yandel, his given name.",
+        "first_chapter": null
+      },
+      {
+        "name": "Bjorn, son of Yandel, the greatest warrior",
+        "context": "Title given by fellow Barbarians after his successful return from the Second Floor",
+        "first_chapter": 16
+      },
+      {
+        "name": "Barbarian of Freedom",
+        "context": "Title given by rumormongers for his actions against the Guild, exaggerating his deeds.",
+        "first_chapter": 43
+      }
+    ],
+    "short_description": "Main protagonist, a Barbarian Explorer. Son of Yandel. After a month of training, entered the Labyrinth using dimensional instability exploit. Currently Level 3 with stats: Physical 155, Mental 90, Supernatural Ability 115. Possesses Immortal Engraving Stage 1. Recently absorbed Corpse Golem Essence (Rank 7) and Vampire Guardian Essence (Rank 5). The Vampire Guardian Essence grants four skills: (P) Source of Darkness — resists death as long as heart is intact; (A) Sacrificial Mark — temporarily increases physical abilities based on marked living creatures; (A) Immortal One — greatly increases regeneration in proportion to lost health; (A) Blood Master — absorbs one target skill upon direct vampirism. Survived the Vampire Duke fight through sheer will and potion usage. After being unjustly sentenced to death by the Explorer's Guild, he orchestrates a prison break, takes hostages, and forces a public trial. He is ultimately cleared, promoted to Rank 7, and receives 5 million Stones in compensation. Later visits the Mage Tower, negotiates with Raven's master Deian, and acquires the Frost Spirit Ring as additional compensation. In Chapter 43, he reflects on his personality changes. In Chapter 47, he purchased high-tier gear: a Lithium Alloy Breastplate (1,910,000 Stone), a Lithium Alloy battle Shield (2,100,000 Stone), and an Expansion Bag (2,500,000 Stone), raising his Item Level to 683 and Overall Combat Index to 527.75. He then met with Hikurod Murad to discuss joining a team.",
+    "chapter_mentions": [
+      {
+        "chapter": 6.0,
+        "context": "Introduced as the protagonist, a Barbarian explorer who recently died and revived, now navigating the Labyrinth."
+      },
+      {
+        "chapter": 7.0,
+        "context": "Kills his Night Companion Hans after the latter attempts to murder him for his heart, and gains a permanent Mental Power increase."
+      },
+      {
+        "chapter": 8.0,
+        "context": "Continues exploring the First Floor, grows exhausted from lack of sleep, and decides to find a non-human Night Companion; encounters a wounded Fairy."
+      },
+      {
+        "chapter": 10.0,
+        "context": "Forces Erwen to reveal her past and then proposes a temporary companion oath to deal with the Crystal Alliance."
+      },
+      {
+        "chapter": 11.0,
+        "context": "Leads Erwen to the Second Floor, hunting Ghouls and evading the Crystal Alliance."
+      },
+      {
+        "chapter": 16.0,
+        "context": "Returns to Rafdonia after a week in the Labyrinth, earns over 180,000 Stone, and is celebrated by Barbarians as the greatest warrior; he also buys new clothes and reflects on his desire to go home."
+      },
+      {
+        "chapter": 17.0,
+        "context": "Wakes up after sleeping over 30 hours, meets Erwen at Paidenfuss tavern, negotiates with Tersia, and makes an oath not to sleep with Erwen."
+      },
+      {
+        "chapter": 18.0,
+        "context": "Explores Rafdonia, sells loot, and formulates a plan to reach the Sixth Floor for financial security."
+      },
+      {
+        "chapter": 20.0,
+        "context": "Proposes a team with Ainar and requests the Immortal Engraving from the Tribe Chief."
+      },
+      {
+        "chapter": 21.0,
+        "context": "Received the Immortal Engraving Stage 1, bought new equipment, and established a daily routine of training and studying."
+      },
+      {
+        "chapter": 22.0,
+        "context": "Leveled up to Level 2 by opening the First Floor portal first, then used dimensional instability to skip directly to the Second Floor."
+      },
+      {
+        "chapter": 23.0,
+        "context": "Bjorn leads Ainar through the Land of the Dead, uses Barbarian Candle Mode, and fights the Death Fiend, gaining EXP from its defeat."
+      },
+      {
+        "chapter": 25.0,
+        "context": "Survived a fatal neck wound thanks to Immortal Engraving, killing Darvan and freeing Ainar before collapsing."
+      },
+      {
+        "chapter": 26.0,
+        "context": "Forced to swear an Oath to survive after being paralyzed by the Raider; vows to become stronger."
+      },
+      {
+        "chapter": 27.0,
+        "context": "Decides to become proactive and forcibly opens a Rift using the Monument to the Great Sage."
+      },
+      {
+        "chapter": 28.0,
+        "context": "Enters the Bloodstained Fortress Rift with Ainar and other explorers, assesses the team dynamics, and decides to go along with Raven's leadership."
+      },
+      {
+        "chapter": 35.0,
+        "context": "Leads the party to defeat the Vampire Duke, using desperate tactics including consuming the Corpse Golem Essence and repeatedly casting Flesh Explosion to destroy the vampire's heart."
+      },
+      {
+        "chapter": 36.0,
+        "context": "Wakes up after three days of unconsciousness, confirms his health, and proceeds to exchange Magic Stones at the Exchange Office for Ninth-Rank Explorers in Rafdonia, where he is suddenly arrested by guards."
+      },
+      {
+        "chapter": 37.0,
+        "context": "Imprisoned and sentenced to death by the Explorer's Guild for alleged raiding; plans to escape and exact revenge."
+      },
+      {
+        "chapter": 38.0,
+        "context": "Escapes from imprisonment, leads a prison riot, takes the Branch Chief and Regional Chief's daughter hostage to force a public trial of his innocence."
+      },
+      {
+        "chapter": 39.0,
+        "context": "Continues his escape by holding the Branch Chief and Regional Chief's daughter hostage, forcing them to summon key witnesses and a Priest to prove his innocence."
+      },
+      {
+        "chapter": 40.0,
+        "context": "Successfully proves his innocence and secures compensation, including rank promotion to Rank 7 and 5 million Stones."
+      },
+      {
+        "chapter": 42.0,
+        "context": "Visits the Mage Tower, negotiates with Raven and her master Deian, and accepts the Frost Spirit Ring as compensation for the Corpse Golem Essence."
+      },
+      {
+        "chapter": 43.0,
+        "context": "Reflects on his increasingly aggressive instincts and the fusion of his original personality with the Barbarian body's instincts."
+      },
+      {
+        "chapter": 44.0,
+        "context": "Visits Raven's lab to review his Essence, learns the precise stats and skills of his Vampire Guardian Essence, and considers solo play or finding new party members."
+      },
+      {
+        "chapter": 47.0,
+        "context": "Purchased high-tier gear including Lithium Alloy armor and shield and an expansion bag, then met with Hikurod Murad to discuss joining his team."
+      }
+    ],
+    "importance": 1.0,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "2m",
+          "race": "Barbarian",
+          "build": "muscular"
+        },
+        "notes": "Wields a Shield; covered in blood from Goblin fights.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Skills",
+        "attributes": {},
+        "notes": "Uses improvised skills 'Smash' (attack with shield, 0 MP) and 'Final Shield Attack' (a finishing shield blow).",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Cautious Nature",
+        "attributes": {},
+        "notes": "Refuses to fully trust a Night Companion despite forming a partnership; pretends to doze off to stay alert.",
+        "source_chapter": 6.0
+      },
+      {
+        "label": "Mental Power",
+        "attributes": {
+          "value": "+1 (from achievement First Murder)"
+        },
+        "notes": "Permanently increased by 1 after killing Hans in self-defense.",
+        "source_chapter": 7.0
+      },
+      {
+        "label": "Deceptive Nature",
+        "attributes": {},
+        "notes": "Uses the Barbarian stereotype of being simple and foolish to hide his true intentions. Feigned snoring to test Hans's trustworthiness.",
+        "source_chapter": 7.0
+      },
+      {
+        "label": "Stats",
+        "attributes": {
+          "level": 3.0,
+          "physical": 155.0,
+          "mental": 90.0,
+          "supernatural_ability": 115.0,
+          "item_level": 98.0,
+          "overall_combat_index": 381.5
+        },
+        "notes": "After absorbing the Corpse Golem and Vampire Guardian essences, Bjorn's stats increased dramatically. His Mental Power permanently increased by +10 due to an achievement for surviving within the countdown.",
+        "source_chapter": 8.0
+      },
+      {
+        "label": "Equipment",
+        "attributes": {},
+        "notes": "Equipped leather boots, two-handed hammer, shoulder guards, backpack. Also carries water flask, compass, pocket watch, and potion.",
+        "source_chapter": 8.0
+      },
+      {
+        "label": "Combat Efficiency",
+        "attributes": {},
+        "notes": "Easily defeats Ghouls with Hammer Smash; coordinates ranged and melee attacks with Erwen.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Leadership",
+        "attributes": {},
+        "notes": "Decides to head to Second Floor with Erwen, setting a 9:1 split of spoils.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Resourcefulness",
+        "attributes": {},
+        "notes": "Uses the Message Stone from Serdin to monitor pursuers; navigates using darkness as a guide to the upper floor.",
+        "source_chapter": 11.0
+      },
+      {
+        "label": "Oath",
+        "attributes": {},
+        "notes": "Swore on his honor as a Warrior not to sleep with Erwen, as demanded by Tersia.",
+        "source_chapter": 17.0
+      },
+      {
+        "label": "Companion Acquisition",
+        "attributes": {},
+        "notes": "After sparring with Ainar, Bjorn offers her a team with an 8:2 split in his favor, and she accepts. He also bears the cost of the team.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Goal: Spirit Engraving",
+        "attributes": {},
+        "notes": "Bjorn decides to use his 1.4 million Stone to request the Immortal Engraving from the Tribe Chief at the Holy Land, a costly Barbarian growth method.",
+        "source_chapter": 20.0
+      },
+      {
+        "label": "Immortal Engraving Stage 1",
+        "attributes": {
+          "natural_regeneration": "greatly increases",
+          "physical_stats_bonus": 20.0
+        },
+        "notes": "Bjorn underwent the Immortal Engraving, which infused soul power into his body. The process was painful and took until dark. He felt a strange power stirring.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Equipment Upgrades",
+        "attributes": {
+          "item_level_total": 202.0,
+          "mace_cost": 220000.0,
+          "half_armor_cost": 360000.0,
+          "helmet_cost": 170000.0
+        },
+        "notes": "Bought a one-handed mace, a half armor (bulletproof vest style), and a custom helmet. The helmet required custom fitting and took 3 days.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Daily Routine",
+        "attributes": {
+          "wake_up": "7 AM",
+          "breakfast": "with Erwen",
+          "library_hours": "8 AM - 4 PM",
+          "sparring_hours": "5 PM - 9 PM",
+          "dinner_with_Erwen": "5 times a week",
+          "sleep": "11 PM"
+        },
+        "notes": "Established a strict daily routine focused on study, combat training, and socializing with Erwen. Sparring with Barbarians improved his reflexes and dynamic vision.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Level Up (Level 2)",
+        "attributes": {
+          "level": 2.0,
+          "physical": 46.0,
+          "mental": 36.0,
+          "supernatural_ability": 4.0,
+          "soul_power_increase": 10.0,
+          "max_essence_increase": 1.0,
+          "item_level": 202.0,
+          "overall_combat_index": 136.5
+        },
+        "notes": "Gained level by being the first to open the First Floor portal, earning 2 EXP.",
+        "source_chapter": 22.0
+      },
+      {
+        "label": "Barbarian Candle Mode",
+        "attributes": {},
+        "notes": "Improvised technique of attaching a torch to his helmet to provide hands-free light, commonly used by other Explorers.",
+        "source_chapter": 23.0
+      },
+      {
+        "label": "Battle Cry",
+        "attributes": {},
+        "notes": "Bjorn shouts 'Behel' as a Barbarian war cry during combat, referencing the ancestral spirit.",
+        "source_chapter": 23.0
+      },
+      {
+        "label": "Achievement: Unkillable",
+        "attributes": {
+          "condition": "HP dropped below 0.1%",
+          "reward": "Mental +3"
+        },
+        "notes": null,
+        "source_chapter": 25.0
+      },
+      {
+        "label": "Combat Behavior",
+        "attributes": {},
+        "notes": "Allowed himself to be stabbed in the neck to break Suppression, then threw the knife at Ainar to free her, demonstrating extreme willingness to use pain and injury to turn the tide.",
+        "source_chapter": 25.0
+      },
+      {
+        "label": "Determination",
+        "attributes": {},
+        "notes": "After the Raider encounter, Bjorn vows to become stronger, reflecting on his past and using his disgust as fuel. He recalls the advice 'Remember, you're nothing' to push himself.",
+        "source_chapter": 26.0
+      },
+      {
+        "label": "Proactive Mindset",
+        "attributes": {},
+        "notes": "Decides to stop merely reacting and start seeking out challenges proactively, stating 'Strike first, win.' Plans to enter Rifts to grow stronger.",
+        "source_chapter": 27.0
+      },
+      {
+        "label": "Rift Opening Knowledge",
+        "attributes": {},
+        "notes": "Knows how to forcibly open a Rift on the First Floor by offering Magic Stones of four types (Goblin, Gnome, Ghoul, Blade Wolf) and an Eighth-Rank Magic Stone at the Monument to the Great Sage.",
+        "source_chapter": 27.0
+      },
+      {
+        "label": "Essences",
+        "attributes": {
+          "corpse_golem_essence": "Rank 7",
+          "vampire_guardian_essence": "Rank 5"
+        },
+        "notes": "Bjorn consumed the Corpse Golem Essence during the battle, gaining Pain Resistance, Strength, Bone Density, etc. Later absorbed the Vampire Guardian Essence after defeating the Vampire Duke, gaining Natural Regeneration, Strength, Agility, Magic Resistance, and the passive Source of Darkness and Immortal One.",
+        "source_chapter": 35.0
+      },
+      {
+        "label": "Passive Skills",
+        "attributes": {
+          "source_of_darkness": "Prevents death until heart is destroyed",
+          "immortal_one": "Greatly increases regeneration in proportion to lost health"
+        },
+        "notes": "Both passives obtained from the Vampire Guardian Essence. Source of Darkness ensures Bjorn cannot die as long as his heart remains intact. Immortal One boosts regeneration when health is low.",
+        "source_chapter": 35.0
+      },
+      {
+        "label": "Imprisonment",
+        "attributes": {},
+        "notes": "Arrested by the Explorer's Guild on suspicion of raiding, held in an interrogation room in the Guild basement, sentenced to death after a corrupt investigation. Plans to escape and exact revenge.",
+        "source_chapter": 37.0
+      },
+      {
+        "label": "Strategic Planning",
+        "attributes": {},
+        "notes": "Planned the entire prison break and hostage situation in about 30 minutes, aiming to create a situation where the Guild cannot silence him.",
+        "source_chapter": 38.0
+      },
+      {
+        "label": "Compensation",
+        "attributes": {
+          "compensation_amount": "5,000,000 Stone",
+          "new_rank": "7"
+        },
+        "notes": "Received after the Regional Chief conceded to demands.",
+        "source_chapter": 40.0
+      },
+      {
+        "label": "Trial Outcome",
+        "attributes": {},
+        "notes": "Declared innocent by the Mage's recording magic; the Guild's corruption was exposed.",
+        "source_chapter": 40.0
+      },
+      {
+        "label": "Social Manipulator",
+        "attributes": {},
+        "notes": "Engages in sycophantic conversation with Master Deian, praising him to gain favor, and later switches to serious negotiation. Demonstrates ability to read the room and adapt his behavior.",
+        "source_chapter": 42.0
+      },
+      {
+        "label": "Personality Change",
+        "attributes": {},
+        "notes": "Reflects on his increasingly aggressive instincts and the fusion of his original personality with the Barbarian body's instincts, feeling that he has become more aggressive and simple-minded like the Barbarians, a change noticed since waking up in this body.",
+        "source_chapter": 43.0
+      }
+    ]
+  },
+  {
+    "id": "ff724ab6fcdc",
+    "name": "Lithium Alloy Breastplate",
+    "aliases": [],
+    "short_description": "A Tier 2 metal breastplate made of lithium alloy, white in color, extremely light and hard. Purchased by Bjorn for 1,910,000 Stone to maximize protection of his heart, synergizing with the Source of Darkness passive.",
+    "chapter_mentions": [
+      {
+        "chapter": 47.0,
+        "context": "Purchased to maximize protection of his heart, synergizing with Source of Darkness."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Physical Properties",
+        "attributes": {
+          "material": "Lithium Alloy",
+          "tier": "Tier 2",
+          "price_stone": 1910000.0
+        },
+        "notes": null,
+        "source_chapter": 47.0
+      }
+    ]
+  },
+  {
+    "id": "10cd73308c48",
+    "name": "Lithium Alloy battle Shield",
+    "aliases": [],
+    "short_description": "A large shield made of lithium alloy, purchased for 2,100,000 Stone. Used by Bjorn to become a human wall and protect companions.",
+    "chapter_mentions": [
+      {
+        "chapter": 47.0,
+        "context": "Bought to become a human wall for team support."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Physical Properties",
+        "attributes": {
+          "material": "Lithium Alloy",
+          "tier": "Tier 2",
+          "price_stone": 2100000.0
+        },
+        "notes": null,
+        "source_chapter": 47.0
+      }
+    ]
+  },
+  {
+    "id": "0a6ad1ab72b3",
+    "name": "Expansion Bag",
+    "aliases": [],
+    "short_description": "An Eighth Rank storage backpack with enchantments: Auto-Sort, Individual Withdrawal, Lighten (Low). Purchased for 2,500,000 Stone to greatly increase inventory capacity and convenience.",
+    "chapter_mentions": [
+      {
+        "chapter": 47.0,
+        "context": "Acquired to greatly increase inventory capacity and convenience."
+      }
+    ],
+    "importance": 0.4,
+    "information": [
+      {
+        "label": "Enchantments",
+        "attributes": {
+          "auto_sort": 1.0,
+          "individual_withdrawal": 1.0,
+          "lighten": "Low"
+        },
+        "notes": null,
+        "source_chapter": 47.0
+      }
+    ]
+  },
+  {
+    "id": "5ffcd1845402",
+    "name": "Alminus Central Exchange",
+    "aliases": [],
+    "short_description": "The exchange in the commercial city of Commelby, Zone 2, where items can be searched and purchased via consignment sale. Used by Bjorn to buy gear by submitting search criteria and paying a fee per item.",
+    "chapter_mentions": [
+      {
+        "chapter": 47.0,
+        "context": "First visited to purchase the Expansion Bag and later the armor and shield."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "6d4bc05c5b7f",
+    "name": "Vampire (Guardian) Essence",
+    "aliases": [],
+    "short_description": "Guardian-type essence obtained from the Vampire Duke Cambormir, granting four skills: Source of Darkness (passive), Sacrificial Mark, Immortal One, and Blood Master. These skills affect combat strategy and gear choices.",
+    "chapter_mentions": [
+      {
+        "chapter": 47.0,
+        "context": "Referenced as the source of Bjorn's Source of Darkness passive, influencing his equipment choices."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Skills Granted",
+        "attributes": {
+          "passive": "Source of Darkness",
+          "active_skills": [
+            "Sacrificial Mark",
+            "Immortal One",
+            "Blood Master"
+          ]
+        },
+        "notes": null,
+        "source_chapter": 47.0
+      }
+    ]
+  },
+  {
+    "id": "7149b44b8939",
+    "name": "Guardian's Wristguard",
+    "aliases": [],
+    "short_description": "A Numbers Item (No. 3112) obtained by Hikurod from the Bloodstained Fortress. Worth approximately 50 million Stone. Only obtainable on floors 4+.",
+    "chapter_mentions": [
+      {
+        "chapter": 48.0,
+        "context": "Revealed by Hikurod as the Numbers Item he obtained from the Bloodstained Fortress, impressing Bjorn."
+      }
+    ],
+    "importance": 0.5,
+    "information": [
+      {
+        "label": "Value",
+        "attributes": {
+          "price_stone": "50,000,000",
+          "number": 3112.0
+        },
+        "notes": "Only obtainable from Rifts on the Fourth Floor or higher.",
+        "source_chapter": 48.0
+      }
+    ]
+  },
+  {
+    "id": "35cec0c6c9f0",
+    "name": "House of Baron Martoan",
+    "aliases": [],
+    "short_description": "A noble house in Rafdonia to which Dwalki claims distant relation via his aunt's husband.",
+    "chapter_mentions": [
+      {
+        "chapter": 48.0,
+        "context": "Mentioned by Dwalki as the baronial house he is distantly related to."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  },
+  {
+    "id": "388d4d729a7c",
+    "name": "Red Beast Tribe",
+    "aliases": [],
+    "short_description": "One of the five great tribes, Misha Karlstein's tribe.",
+    "chapter_mentions": [
+      {
+        "chapter": 49.0,
+        "context": "Introduced as the tribe of Beastkin explorer Misha Karlstein."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Background",
+        "attributes": {},
+        "notes": "One of the five great beast tribes. Misha Karlstein is the princess of this tribe.",
+        "source_chapter": 49.0
+      }
+    ]
+  },
+  {
+    "id": "a3fa7f9b0688",
+    "name": "Hikurod Murad",
+    "aliases": [
+      {
+        "name": "Murad",
+        "context": "Common short form used by Bjorn and others.",
+        "first_chapter": 30
+      }
+    ],
+    "short_description": "A Dwarf Explorer and team leader. Previously partnered with Bjorn in the Bloodstained Fortress, obtaining the Guardian's Wristguard worth ~50 million Stone. Promoted to Sixth Rank. In Chapter 49, he shows pragmatic and supportive leadership, taking care of Dwalki and managing team dynamics.",
+    "chapter_mentions": [
+      {
+        "chapter": 27.0,
+        "context": "Joins Bjorn and Ainar in the Bloodstained Fortress Rift as a random explorer."
+      },
+      {
+        "chapter": 28.0,
+        "context": "Reintroduced as a third-year Explorer in the Bloodstained Fortress Rift."
+      },
+      {
+        "chapter": 29.0,
+        "context": "Negotiated loot distribution alongside Raven and Bjorn, securing the Numbers Item for himself."
+      },
+      {
+        "chapter": 30.0,
+        "context": "The Dwarf warrior is wounded in the eye by the Corpse Golem's attack, incapacitating him and forcing Bjorn to take the lead."
+      },
+      {
+        "chapter": 31.0,
+        "context": "Froze and was wounded by the Corpse Golem's attack, but later recovered and supported the party."
+      },
+      {
+        "chapter": 34.0,
+        "context": "Engages the Vampire Duke but is incapacitated, forcing Bjorn and Ainar to fight alone."
+      },
+      {
+        "chapter": 35.0,
+        "context": "Used Lightning Discharge to stun the Vampire Duke, creating an opening for Bjorn's attack."
+      },
+      {
+        "chapter": 46.0,
+        "context": "Hikurod Murad is recruiting a team for a Third Floor expedition, and Bjorn considers applying."
+      },
+      {
+        "chapter": 47.0,
+        "context": "Contacted Bjorn via letter and met him at a tavern to discuss joining his expedition team."
+      },
+      {
+        "chapter": 48.0,
+        "context": "Bjorn meets Hikurod to discuss team formation; Hikurod reveals his valuable Numbers Item and gets promoted to Sixth Rank."
+      },
+      {
+        "chapter": 49.0,
+        "context": "Serves as team leader, now comfortable with Dwalki and showing supportive leadership."
+      }
+    ],
+    "importance": 0.7,
+    "information": [
+      {
+        "label": "Fighting Style",
+        "attributes": {},
+        "notes": "Uses a hammer and methodically crushes enemies from the bottom up, as seen with the Gargoyle Statue.",
+        "source_chapter": 29.0
+      },
+      {
+        "label": "Personality",
+        "attributes": {},
+        "notes": "Friendly at first but becomes confrontational over money; negotiates hard for the Numbers Item.",
+        "source_chapter": 29.0
+      },
+      {
+        "label": "Injury",
+        "attributes": {},
+        "notes": "Incapacitated by a piece of flesh from the Corpse Golem's attack that hit his eye through his helmet's slit, causing him to be temporarily blinded in that eye.",
+        "source_chapter": 30.0
+      },
+      {
+        "label": "Vulnerability to Shock",
+        "attributes": {},
+        "notes": "Froze in fear upon seeing the Corpse Golem, resulting in a wound to his eye from acidic fluid. Later recovered and continued fighting.",
+        "source_chapter": 31.0
+      },
+      {
+        "label": "Essence Abilities",
+        "attributes": {
+          "Counterweight": "Knockback immunity and shock absorption",
+          "Emergency Restoration": "Restores equipment to original state"
+        },
+        "notes": "Used these abilities to hold the line against the Vampire Duke before being overwhelmed.",
+        "source_chapter": 34.0
+      },
+      {
+        "label": "Combat Role",
+        "attributes": {},
+        "notes": "Murad used the combo of 'Lightning' and 'Discharge' to stun the Vampire Duke, allowing Bjorn to shove the Tear of the Goddess into its mouth. He was later incapacitated by Pain Sharing.",
+        "source_chapter": 35.0
+      },
+      {
+        "label": "Promotion",
+        "attributes": {
+          "rank": "Sixth Rank"
+        },
+        "notes": "After Bjorn's suggestion, Hikurod submitted a rank review application and was promoted to Sixth Rank within six days.",
+        "source_chapter": 48.0
+      },
+      {
+        "label": "Possesses Numbers Item",
+        "attributes": {},
+        "notes": "Has the Guardian's Wristguard (No. 3112) from the Bloodstained Fortress, valued at 50 million Stone.",
+        "source_chapter": 48.0
+      },
+      {
+        "label": "Leadership Style",
+        "attributes": {},
+        "notes": "Pragmatic and supportive, takes care of Dwalki despite his eccentricities, respects team members' opinions and learns to be a good team leader.",
+        "source_chapter": 49.0
+      }
+    ]
+  },
+  {
+    "id": "4f6593e2655c",
+    "name": "Riol Worb Dwalki",
+    "aliases": [
+      {
+        "name": "Dwalki",
+        "context": "Mage applying to the team, uses this short form.",
+        "first_chapter": 48
+      }
+    ],
+    "short_description": "An Eighth Rank Mage who officially joins Bjorn and Hikurod's team. Claims recognition from the Rafdonia Royal Family and ties to the House of Baron Martoan. In reality, he is a con artist-like figure but a genuine mage, skilled in lifestyle magic, curses, and Ice Magic. He is inexperienced in the Labyrinth and has a bluffing personality.",
+    "chapter_mentions": [
+      {
+        "chapter": 48.0,
+        "context": "Applies to join Bjorn and Hikurod's team, boasting of his noble connections and official Mage recognition."
+      },
+      {
+        "chapter": 49.0,
+        "context": "Joins the team as the first mage companion, immediately casting a blinding spell upon entering the Labyrinth."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Speech Pattern",
+        "attributes": {},
+        "notes": "Speaks in a proud and convoluted manner, often confusing others. Introduces himself with elaborate titles.",
+        "source_chapter": 48.0
+      },
+      {
+        "label": "Personality",
+        "attributes": {},
+        "notes": "Full of bluff and bluster, reeks of a con artist but is genuine and follows orders well.",
+        "source_chapter": 49.0
+      },
+      {
+        "label": "Magic Abilities",
+        "attributes": {
+          "type": "Ice Magic, Light Spell, curses"
+        },
+        "notes": "Casts a bright Light spell to illuminate the dark, though wasteful of mana.",
+        "source_chapter": 49.0
+      }
+    ]
+  },
+  {
+    "id": "3ab259fab8ef",
+    "name": "Misha Karlstein",
+    "aliases": [
+      {
+        "name": "Misha",
+        "context": "Short form used by others.",
+        "first_chapter": 49
+      }
+    ],
+    "short_description": "Beastkin Explorer, princess of the Red Beast Tribe, speaks with a slur; member of Bjorn's team.",
+    "chapter_mentions": [
+      {
+        "chapter": 49.0,
+        "context": "Introduced as a Beastkin explorer of the Red Beast Tribe, joining the team as a warrior."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Appearance",
+        "attributes": {
+          "height": "early 170s",
+          "ears": "triangular ears",
+          "build": "long and slender",
+          "impression": "aloof"
+        },
+        "notes": "Cold atmosphere created by her appearance.",
+        "source_chapter": 49.0
+      },
+      {
+        "label": "Speech Pattern",
+        "attributes": {},
+        "notes": "Has a habit of slurring only the ends of her words, claiming it's due to Beastkin anatomy.",
+        "source_chapter": 49.0
+      },
+      {
+        "label": "Background",
+        "attributes": {},
+        "notes": "Princess of the Red Beast Tribe, one of the five great tribes. The clan chief is her father.",
+        "source_chapter": 49.0
+      }
+    ]
+  },
+  {
+    "id": "93a4806ff467",
+    "name": "Brown Rotmiller",
+    "aliases": [
+      {
+        "name": "Rotmiller",
+        "context": "Surname used as short form.",
+        "first_chapter": 49
+      }
+    ],
+    "short_description": "Human Seventh Rank Scout with eight years of exploration experience; the most experienced member of the team.",
+    "chapter_mentions": [
+      {
+        "chapter": 49.0,
+        "context": "Joins the team as a veteran Scout, taking charge of navigation and leading the party through the First Floor."
+      }
+    ],
+    "importance": 0.6,
+    "information": [
+      {
+        "label": "Personality",
+        "attributes": {},
+        "notes": "Serious and inflexible, likely developed for survival. He is the only normal person on the team.",
+        "source_chapter": 49.0
+      },
+      {
+        "label": "Experience",
+        "attributes": {
+          "years": "8",
+          "rank": "Seventh"
+        },
+        "notes": "Survived in the Labyrinth for eight years despite low rank, indicating reliance on other strengths.",
+        "source_chapter": 49.0
+      }
+    ]
+  },
+  {
+    "id": "73756e20ce58",
+    "name": "Crystal Cave",
+    "aliases": [],
+    "short_description": "The first floor of the Labyrinth, a cave filled with crystals. Also a specific cave area within the First Floor where Tersia trained Erwen.",
+    "chapter_mentions": [
+      {
+        "chapter": 28.0,
+        "context": "Tersia and Erwen are training in the Crystal Cave on the First Floor."
+      },
+      {
+        "chapter": 49.0,
+        "context": "The party enters the Crystal Cave, the first floor of the Labyrinth, at the start of their expedition."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "3c8f3570486e",
+    "name": "Dimensional Instability Phenomenon",
+    "aliases": [],
+    "short_description": "A method used by experienced explorers to unconditionally acquire portal opening experience points by exploiting dimensional instability, requiring security through promises or oaths.",
+    "chapter_mentions": [
+      {
+        "chapter": 49.0,
+        "context": "Bjorn considers using this method to gain portal opening experience points but decides to wait for a trustworthy team."
+      }
+    ],
+    "importance": 0.4,
+    "information": []
+  },
+  {
+    "id": "49421a546497",
+    "name": "Beast Den",
+    "aliases": [],
+    "short_description": "The second floor of the Labyrinth, a den of beasts.",
+    "chapter_mentions": [
+      {
+        "chapter": 49.0,
+        "context": "The party enters the Beast Den, the second floor, after passing through the portal on the first floor."
+      }
+    ],
+    "importance": 0.3,
+    "information": []
+  },
+  {
+    "id": "b550177e3701",
+    "name": "Baron Martoan",
+    "aliases": [],
+    "short_description": "A noble house that Dwalki claims relation to via his aunt's husband's brother.",
+    "chapter_mentions": [
+      {
+        "chapter": 49.0,
+        "context": "Dwalki claims ties to this barony to boast about his status."
+      }
+    ],
+    "importance": 0.2,
+    "information": []
+  }
+]

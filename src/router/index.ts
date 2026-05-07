@@ -9,6 +9,7 @@ export default createRouter({
     { path: '/', component: HomeView },
     { path: '/category/:categoryName', component: CategoryView, props: true },
     { path: '/wiki/:articlePath(.*)+', component: ArticleView, props: true },
+    { path: '/timeline', component: () => import('@/views/TimelineView.vue') },
     { path: '/:pathMatch(.*)*', redirect: '/' },
   ],
   scrollBehavior(_to, _from, savedPosition) {

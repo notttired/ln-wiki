@@ -1,0 +1,752 @@
+[
+  {
+    "id": "77622ed0f622",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Dungeon & Stone",
+    "relation_type": "player_of",
+    "description": "Bjorn is a player of the game Dungeon & Stone who has been transported into its reality. He uses his knowledge of game mechanics (satiety system, night companions) to survive. This chapter highlights the game's design and Bjorn's adaptation to it as a real world.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "557e89dbe019",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Labyrinth",
+    "relation_type": "explorer",
+    "description": "Bjorn explores the Labyrinth, fighting goblins, finding water, and learning its dangers. The Labyrinth is the primary setting for his actions, providing challenges and resources.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "233187ceb363",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Hans",
+    "relation_type": "betrayer",
+    "description": "Hans was a human explorer who became Bjorn's Night Companion. He attempted to kill Bjorn to steal his magic stones and heart. Bjorn, suspicious, feigned sleep and when Hans attacked, Bjorn killed him in self-defense. This event gave Bjorn a permanent Mental Power increase.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "dd17a2153dcb",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Night Companion",
+    "relation_type": "participant_in",
+    "description": "Bjorn seeks a Night Companion to safely sleep in the Labyrinth, leading him to partner with Hans. The Night Companion concept is a key survival tactic in this world.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "4ebf2882deeb",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Erwen Fornachi di Tersia",
+    "relation_type": "ally",
+    "description": "Erwen holds Bjorn in high regard, calling him 'the Old Man' and trusting his advice. She wants to become stronger to help him, frequently mentioning his teachings.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "77943974e576",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Crystal Alliance",
+    "relation_type": "enemies",
+    "description": "Bjorn has become an enemy of the Crystal Alliance by aiding Erwen, killing their member Serdin, and now being targeted. He is aware of the threat and has decided to fight alongside Erwen, making the Alliance his direct opposition. Bjorn eavesdrops on their communications via the Message Stone and expresses disdain for their behavior.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "56a6573ed1e4",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Serdin",
+    "relation_type": "opponents",
+    "description": "Bjorn and Serdin were on opposing sides; Bjorn orchestrated the ambush that led to Serdin's death. Although Bjorn did not land the killing blow, he was directly involved in the confrontation and is now a target of the Crystal Alliance.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "6a067a0167a3",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Message Stone",
+    "relation_type": "possessor",
+    "description": "Bjorn obtained the Message Stone from the corpse of Serdin and uses it to monitor the Crystal Alliance's communications, learning of their plans and bounty updates.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "d1cb8e202580",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Second Floor",
+    "relation_type": "explorer",
+    "description": "Bjorn enters the Second Floor (Goblin Forest) directly by using the dimensional instability exploit, skipping the entire First Floor. He opens the portal first, gaining EXP and leveling up to Level 2.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "6028281e84e5",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Ghoul",
+    "relation_type": "predator",
+    "description": "Bjorn kills Ghouls on the First Floor, noting they are stronger than Goblins but more efficient to hunt. He uses Shield and Hammer to dispatch them quickly.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "1093a4b84b72",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Goblin Forest",
+    "relation_type": "explorer",
+    "description": "Bjorn and Erwen enter the Goblin Forest, the specific area of the Second Floor accessible from their portal. The forest is dark with many traps, and goblins appear in large groups. Bjorn tests tree hardness and decides to search the area.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "56af0c2cee27",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Persi",
+    "relation_type": "enemies",
+    "description": "Bjorn and the crossbowman Persi are hostile. Bjorn orders Erwen to kill Persi, and she succeeds. Persi is a member of the group that ambushed Bjorn and Erwen over the Essence.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "7948f7e9418f",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Illis",
+    "relation_type": "enemies",
+    "description": "Bjorn kills Illis, the samurai, by biting his neck and ripping it out during their fight. Illis was part of the group that ambushed Bjorn and Erwen.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "f89e5c2ed758",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Black Whale Tavern",
+    "relation_type": "visitor",
+    "description": "Bjorn planned to meet Erwen at the Black Whale Tavern after exiting the labyrinth. However, upon arriving he found it had been renamed to Paidenfuss after the original owner's son got into gambling. He still entered and met Erwen and Tersia inside.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "accd978a2b89",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Rafdonia",
+    "relation_type": "travels_to",
+    "description": "Bjorn was transported to Rafdonia after the labyrinth closed, as indicated by the system message.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "69b747de3c9b",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Rafdonia",
+    "relation_type": "inhabitant",
+    "description": "Bjorn explores Rafdonia, noting its modern amenities (faucets, tall stone buildings), the checkpoint system, and the bustling streets. He feels a sense of security in the city. He also learns that the Black Whale Tavern is now called Paidenfuss, indicating the city's changes over time. He buys new clothes and sells loot, observes a public execution of tax evaders in the Central Plaza, and plans his financial future based on the city's tax system.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "0bbca50e2070",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Daria Witember di Tersia",
+    "relation_type": "antagonistic",
+    "description": "Tersia holds a low opinion of Bjorn, referring to him as 'that Barbarian.' She believes he is inefficient and that her sister Erwen will surpass him within a year. She also wants to prevent Erwen from associating with him, viewing him as a bad influence.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "1977182ee483",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Sixth Floor",
+    "relation_type": "aspiration",
+    "description": "Bjorn sets reaching the Sixth Floor of the Labyrinth as a concrete intermediate goal. He calculates that to live comfortably in Rafdonia until retirement (assuming 90-year lifespan), he needs to save enough money to stop working by age 50, which requires reaching at least the Sixth Floor.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "248a706acbcb",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Ainar",
+    "relation_type": "mentor_student",
+    "description": "Bjorn gave Ainar advice to think before acting, which inspired her to pursue self-improvement. In the Library, they meet again and Ainar reveals she is learning to read and plans to visit the Holy Land to study. She offers to repay Bjorn's kindness by helping him if needed.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "d8d1d4a01867",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Ainar",
+    "relation_type": "party_members",
+    "description": "Bjorn and Ainar are a well-coordinated fighting duo, demonstrated by their synchronized 'True Double Barbarian Tackle' to defeat a Death Fiend. Ainar follows Bjorn's lead without question, and they communicate wordlessly. They coordinate flawlessly against the Corpse Golem, taking turns drawing aggro and striking its weak point.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "002cc2e5056c",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Ainar",
+    "relation_type": "sparring_partners",
+    "description": "Bjorn and Ainar spar daily, with Bjorn sometimes winning. They have a companion agreement (8:2 split) from earlier. Their relationship is competitive but cooperative, with Bjorn giving advice.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "0927b81d1c07",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Ainar",
+    "relation_type": "allies",
+    "description": "Ainar stays with Bjorn for three days while he is unconscious, giving him a lap pillow and clothing him with a makeshift skirt, insisting on waiting for him to wake up. This demonstrates deep loyalty and care.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "9091efafafc1",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Tribe Chief",
+    "relation_type": "tribal_member",
+    "description": "Tribe Chief grants Bjorn the Immortal Engraving and gives a 200,000 Stone discount, showing favor and belief in Bjorn's potential. He is pleased by Bjorn's tale of tricking fairies, strengthening the bond.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "681ae50a7736",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Raging Horn Bull Inn",
+    "relation_type": "visitor",
+    "description": "Bjorn goes to the Raging Horn Bull Inn to find Ainar. He is surprised by the low price (300 Stone per day) but discovers the shared-bunk arrangement. He waits there and later spars with Ainar in the back lot.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "eb3306ddea5c",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Shaman",
+    "relation_type": "ritual_subject",
+    "description": "The Shaman performs the Immortal Engraving, a painful needle procedure. Bjorn thanks the Shaman, who is surprised as he is the first to do so.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "abb9f47f4a5b",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Holy Land",
+    "relation_type": "visitor",
+    "description": "Bjorn visits the Holy Land to receive the Spirit Engraving from the Tribe Chief and Shaman. It is a sacred place for Barbarians.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "f95ae5fa6f7d",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Commercial District",
+    "relation_type": "shopper",
+    "description": "Bjorn goes to the Commercial District to purchase equipment \u2013 a mace, half armor, and a custom helmet.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "6b49b1513a95",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Immortal Engraving",
+    "relation_type": "beneficiary",
+    "description": "Bjorn possesses the Immortal Engraving, which saved his life when he was stabbed in the neck. The engraving's regeneration closed the wound and prevented his death. It is a core part of his build.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "3561c880c796",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Explorer's Guild",
+    "relation_type": "customer",
+    "description": "Bjorn visits the Explorer's Guild to purchase a Binding Spell for himself and Ainar, paying 15,000 Stone. The guild provides the service based on their Ninth-Rank status.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "05406c280c2a",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Explorer's Guild",
+    "relation_type": "victim",
+    "description": "The Explorer's Guild, through its corrupt officials, unjustly sentenced Bjorn to death. In response, Bjorn orchestrates a prison break, takes hostages, and forces the Guild to clear his name, promote him to Rank 7, and pay 5 million Stones in compensation.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "176da9bfe2d3",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Dimensional Plaza",
+    "relation_type": "entry_point",
+    "description": "Bjorn uses the Dimensional Plaza as the entry point to the Labyrinth. He waits until the portal is about to close to exploit dimensional instability, allowing him and Ainar to skip the First Floor.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "6befbf218842",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Pocket Watch",
+    "relation_type": "possession",
+    "description": "Bjorn adjusts his pocket watch after entering the Second Floor, setting it to 00:05. He relies on it for timekeeping.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "f3643e85bb21",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Land of the Dead",
+    "relation_type": "explorer",
+    "description": "Bjorn navigates the Land of the Dead, an undead-filled region on the Second Floor, with Ainar. He uses his knowledge to avoid Banshees and efficiently fight Ghouls, Skeletons, and Death Fiends.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "98b69b34ca87",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Behel",
+    "relation_type": "invokes",
+    "description": "Bjorn shouts 'Behel\u2014laaaaaaaaa!!' as a war cry before engaging enemies, calling upon the Barbarians' ancestral spirit. This battle cry is a ritualistic part of his combat.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "2add12c522dc",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Death Fiend",
+    "relation_type": "hunter_prey",
+    "description": "Bjorn actively hunts Death Fiends on the second floor's Land of the Dead. He has developed an efficient strategy to defeat them, luring them, knocking them down, and delivering repeated blows. He notes their high defense, regeneration, and ability to summon Ghouls.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "3878f617805c",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Death Fiend",
+    "relation_type": "uses_item_from",
+    "description": "Bjorn sacrifices a Death Fiend's Magic Stone as the eighth-rank component to open the Rift. This stone was obtained from earlier hunts in the Land of the Dead.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "0abf5f8f2d3e",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Essence of the Death Fiend",
+    "relation_type": "desires",
+    "description": "Bjorn hopes to obtain the Essence of the Death Fiend, which he considers one of the best early-game essences. He desires its passive 'Body Preservation' for its synergy with his Immortal Engraving. Despite hunting many Death Fiends, it did not drop, leaving him disappointed but still hopeful.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "3832c53ab8ea",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Red-haired Raider",
+    "relation_type": "uneasy_alliance",
+    "description": "The Red-haired Raider corners Bjorn and Ainar, forces Bjorn to swear a Warrior's Oath not to speak of her, heals him, and claims she owes the Barbarians a debt. Bjorn is left with a vow to become stronger and seek vengeance, but for now there is an uneasy truce.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "87a024dd0907",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Darvan",
+    "relation_type": "killer",
+    "description": "Darvan, a bald human explorer, pretended to help Bjorn and Ainar but betrayed them, using a Stone Golem's Suppression ability to immobilize them. He then attempted to kill Bjorn by stabbing him in the neck. Bjorn survived due to his Immortal Engraving and retaliated by crushing Darvan's head with his mace, killing him.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "f08398314b56",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Blond Explorer",
+    "relation_type": "captor_captive",
+    "description": "After killing Darvan and Ramod, Bjorn captured the blond explorer who had a Gnome's Supernatural Ability for area stealth. Bjorn forced him to use his ability to help them hide from the Red-haired Raider. He threatened the blond explorer's life to ensure compliance.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "568e543a515d",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Monument to the Great Sage",
+    "relation_type": "utilizes",
+    "description": "Bjorn locates the Monument to the Great Sage in the central First Floor and uses it to forcibly open a Rift. He offers Magic Stones from four monster types plus the Death Fiend's stone, successfully creating a portal to the Bloodstained Fortress.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "b69c3de05e2c",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Bloodstained Fortress",
+    "relation_type": "explorer",
+    "description": "Bjorn forcibly opens the Bloodstained Fortress Rift on the First Floor and enters it with Ainar. This marks a proactive shift in strategy, seeking high-risk high-reward growth. They explore deeper: crossing the drawbridge, entering the inner castle, and venturing into the Underground Prison, where they face the Corpse Golem.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "1fc7fcaffc02",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Hikurod Murad",
+    "relation_type": "allies",
+    "description": "Bjorn Yandel and Hikurod Murad are teammates in a newly formed expedition team. They have a history from the Bloodstained Fortress Rift, where they both benefited. Bjorn respects Hikurod's leadership and praises his willingness to listen to team members. Hikurod treats Bjorn as a trusted advisor and buys drinks.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "59aad9441aad",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Hikurod Murad",
+    "relation_type": "commander_subordinate",
+    "description": "Bjorn gives orders to the dwarf Murad, who follows without question. At Bjorn's command, Murad uses Lightning Discharge to stun the vampire, enabling the final attack. Murad, though older and more experienced, trusts Bjorn's judgment in battle.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "40f5732fc32a",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Last Great Sage Difflun Groundel Gabrielius",
+    "relation_type": "discovers",
+    "description": "Bjorn reads the inscription on the Monument to the Great Sage, learning the name 'Last Great Sage Difflun Groundel Gabrielius'. This confirms that the monument is the same as in the game.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "5c3789320c6f",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Arua Raven",
+    "relation_type": "uneasy_alliance",
+    "description": "Bjorn Yandel and Arua Raven have a partnership born out of necessity. During the Guild hostage crisis, Raven supports Bjorn by lying about knowing him, using Recording Magic, and blackmailing the Regional Chief. Later, their relationship is marked by constant negotiation: Raven attempts to claim a share of Bjorn's compensation, but Bjorn counters by demanding 5 million Stones for the Corpse Golem Essence she forced on him, ultimately winning with help from an explorer. Deian Tveherion offers the Frost Spirit Ring as compensation, partially resolving the tension. Raven conducts research on Bjorn's Vampire Guardian Essence, revealing its four skills. After Bjorn avoids answering questions about the Tear of the Goddess, Raven becomes suspicious and begins investigating him independently.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "b7967b430c19",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Corpse Golem",
+    "relation_type": "combat_adversaries",
+    "description": "Bjorn faces the Corpse Golem directly when his party members are stunned. He raises his shield and prepares to fight the mid-boss, taking the lead in the confrontation. He successfully buys time for Raven and then together with Ainar destroys the golem's core, defeating it.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "92f93903b7f4",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Tarjin",
+    "relation_type": "distrust",
+    "description": "Tarjin, Raven's porter, is protective and distrustful of Bjorn. He blocked Bjorn from approaching Raven after she fainted, but later accepts Bjorn's leadership after Raven recovers.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "7e4023e46880",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Vampire Duke Cambormir",
+    "relation_type": "sworn_enemies",
+    "description": "A life-and-death battle fought in the Bloodstained Fortress. Bjorn, a fresh Barbarian, faces the Vampire Duke Cambormir, a Rank 5 Advanced Mutant. Despite being outmatched, Bjorn endures through pain and potions, eventually killing the vampire by repeatedly using Flesh Explosion on its chest. The vampire's essence is then absorbed by Bjorn, granting him Source of Darkness and Immortal One.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "87a15c9290e8",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Tear of the Goddess",
+    "relation_type": "used_destroyed",
+    "description": "Bjorn used the Tear of the Goddess to cripple the vampire, destroying it in the process. The item is no longer in his possession.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "9d29e6f883ad",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Corpse Golem Essence",
+    "relation_type": "possesses_essence",
+    "description": "Bjorn absorbs the Corpse Golem Essence during the battle with the Vampire Duke. It granted Pain Resistance +70, Bone Density +55, Strength +15, and other stats, along with the Acidic Fluid and Flesh Explosion skills. The acidity damages his equipment.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "80be9e1e8b07",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Ainar",
+    "relation_type": "former_partners",
+    "description": "After the Vampire Duke battle, Ainar decides to leave for six months to train under an elder at the Holy Land, ending their current partnership. Bjorn respects her decision, understanding the opportunity's value, and they part on good terms. Ainar expresses gratitude for Bjorn treating her normally despite her changed appearance.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "a7fed17c7887",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Vampire Guardian Essence",
+    "relation_type": "has_absorbed",
+    "description": "After defeating the Vampire Duke, Bjorn absorbed its Guardian Essence, gaining Source of Darkness (cannot die until heart destroyed) and Immortal One (regeneration). This saved his life when his HP reached 0%.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "89e2d924188c",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Exchange Office for Ninth-Rank Explorers",
+    "relation_type": "under_suspicion",
+    "description": "After exchanging a large amount of magic stones (231,520 Stone) for currency, the public official becomes suspicious of Bjorn's wealth and his backpack, pressing an emergency button to summon guards. Bjorn is then forcefully arrested, creating a conflict between him and the office.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "1920856cdbfb",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Coldo Bierman",
+    "relation_type": "corrupt_investigator",
+    "description": "Coldo Bierman, the corrupt investigator, falsely accused Bjorn and sentenced him to death. In this chapter, Bierman is captured by Bjorn, stuffed in a wardrobe, later brought before the Branch Chief and Raven, and ultimately dismissed from his position and faces a corruption investigation. Bjorn's actions are a direct retaliation against Bierman's injustice.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "cd147b5c6e3b",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Flesh Explosion",
+    "relation_type": "uses_skill",
+    "description": "Bjorn Yandel uses the Flesh Explosion ability, detonating his own flesh, at the end of the chapter to begin his escape from imprisonment and signal his intent to make the Guild pay for their injustice.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "472be5788a17",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Erwen Fornachi di Tersia",
+    "relation_type": "close_companions",
+    "description": "Erwen, deeply concerned about Bjorn, searched for him after returning from the Labyrinth. Told he was dead, she resolved to become stronger, driven by her emotional bond with him.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "6a9a6e6ff2e4",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Explorer's Guild Branch Chief",
+    "relation_type": "captor_authority",
+    "description": "The Branch Chief is forced to comply with Bjorn's demands under threat to the Regional Chief's daughter. He is essentially a captive authority figure, cooperating to avoid harm.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "2d430e2cf155",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Julian Urbans",
+    "relation_type": "captor_hostage",
+    "description": "Bjorn holds Julian Urbans, the Regional Chief's daughter, as a hostage to force the Guild's compliance. Julian remains remarkably calm, tries to negotiate, and asks Bjorn what he wants. Bjorn uses her as a shield to prevent attack.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "54b07ccf084b",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Hartz Young",
+    "relation_type": "enemies",
+    "description": "Hartz Young gave false testimony against Bjorn, leading to his death sentence. In this chapter, Bjorn captures Hartz, punches him unconscious, and stuffs him in a wardrobe. The Regional Chief sentences Hartz to death at the Execution Ground.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "8ae9d984ae73",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Niall Urbans",
+    "relation_type": "forced_negotiation",
+    "description": "Bjorn Yandel, after a prison break, takes Niall Urbans' daughter hostage and forces Niall, the Regional Chief, to negotiate. Niall agrees to dismiss the corrupt investigator, sentence Hartz Young to death, promote Bjorn to Rank 7, and pay 5 million Stones in compensation. Niall also attempts bribery via Raven, but fails.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "57f2f3b8f2a4",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Deian Tveherion",
+    "relation_type": "new_acquaintance",
+    "description": "Bjorn Yandel meets Deian Tveherion, the master of the Altemion School, for the first time. Deian barges into Raven's lab after overhearing the argument. Initially tense due to Bjorn's barbarian jokes, they quickly bond over mutual banter, with Deian appreciating Bjorn's boldness. Deian offers the Frost Spirit Ring (a Numbers Item) as compensation to settle the 5 million Stones debt, an item that Bjorn internally knows is more valuable than Deian thinks. Bjorn accepts, recognizing the ring's hidden potential.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "4c1a27c4407d",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Primordial Relic",
+    "relation_type": "lost_hope",
+    "description": "Bjorn learns that the Primordial Relic, one of six needed to open the Gate of the Abyss and potentially return to his original world, has been stolen. The theft dashes his hope of escaping, forcing him to consider the possibility of living permanently in this world.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "ddcc78b19ccd",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Hans",
+    "relation_type": "drinking_acquaintance",
+    "description": "Hans is an experienced explorer Bjorn meets at an inn after Ainar leaves. He advises Bjorn on finding new party members through the Guild, noting that recording orbs have become mandatory to prevent betrayal. He treats Bjorn to drinks.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "627fac95f135",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Golden Mask",
+    "relation_type": "possession",
+    "description": "Bjorn obtained the Golden Mask from the Bloodstained Fortress boss and decides to keep it for potential future use, such as changing his appearance if he needs to become an enemy of the city. He values it at about 500,000 Stone but chooses not to sell it.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "48a1fc64ad3f",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Tarikan, son of Riyen",
+    "relation_type": "suspicious_encounter",
+    "description": "Bjorn encounters Tarikan, a Barbarian who is homeless, weaponless, uses formal speech, and is easily frightened. Bjorn deduces that Tarikan is an Evil Spirit (reincarnated person) new to this world. He gives him jerky to lower his guard and learns his name.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "57f3a3ade1bd",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Tarikan, son of Riyen",
+    "relation_type": "reluctant_benefactor",
+    "description": "Bjorn Yandel, himself an Evil Spirit, encounters Tarikan, another Evil Spirit who has been struggling for three months. Feeling a mix of pity and annoyance, Bjorn gives him 150,000 Stone to buy a weapon and enter the Labyrinth, but firmly tells him never to seek him out again.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "bca1ccca8613",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Terves",
+    "relation_type": "service_transaction",
+    "description": "Terves, a guild administrator, processes Bjorn's request for finding companions. He is exceptionally polite and efficient, especially after seeing Bjorn's 'five stars' rating. Bjorn finds his behavior odd but completes the transaction.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "30b04e131eed",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Expansion Bag",
+    "relation_type": "owner",
+    "description": "Bjorn purchased an Expansion Bag from the Alminus Central Exchange to greatly increase his inventory capacity. The bag has three enchantments: Auto-Sort, Individual Withdrawal, and Lighten (Low).",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "10360501d2b6",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Lithium Alloy Breastplate",
+    "relation_type": "owner",
+    "description": "Bjorn bought a Lithium Alloy Breastplate to maximize protection of his heart, synergizing with his Source of Darkness passive. The armor is white, light, and hard, costing 1,910,000 Stone.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "b74d433b95d7",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Lithium Alloy battle Shield",
+    "relation_type": "owner",
+    "description": "Bjorn purchased a Lithium Alloy battle Shield to complement his new role as a human wall, protecting his companions. The shield costs 2,100,000 Stone and significantly increases his Item Level.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "667188a04b21",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Alminus Central Exchange",
+    "relation_type": "customer",
+    "description": "Bjorn used the Alminus Central Exchange in Commelby to search for and purchase his new equipment. He paid a search fee per item and then inspected and bought the items on site.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "e23fe582c0b9",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Riol Worb Dwalki",
+    "relation_type": "allies",
+    "description": "Bjorn Yandel and Riol Worb Dwalki are newly allied companions. Bjorn is initially suspicious of Dwalki, perceiving him as a con artist, but after verifying his abilities and terms, decides to let him join the team. He acknowledges Dwalki's flaws (bluffing, inexperience) but values having a mage. Their relationship is functional but guarded; Bjorn plans to control Dwalki within the team.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "87d93633bbc3",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Misha Karlstein",
+    "relation_type": "teammates",
+    "description": "Bjorn Yandel and Misha Karlstein are members of the same expedition team. Bjorn notes her Beastkin heritage and her habit of slurring words. Their direct interaction is minimal in this chapter; Bjorn observes her behavior and her conflict with Hikurod. He is aware of her status as princess of the Red Beast Tribe but sees no need for special treatment.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  },
+  {
+    "id": "1eaf95935d4f",
+    "entity_id_a": "Bjorn Yandel",
+    "entity_id_b": "Brown Rotmiller",
+    "relation_type": "trusted_teammate",
+    "description": "Bjorn Yandel regards Brown Rotmiller as his favorite team member, appreciating his experience and normalcy. Bjorn trusts Rotmiller's judgment and foresees relying on his skills, especially his pathfinding. Rotmiller is the voice of reason in the team, and Bjorn values his presence.",
+    "importance": 0.5,
+    "chapter_mentions": [],
+    "source_chunks": []
+  }
+]

@@ -20,7 +20,8 @@ const isSearching = computed(() => searchQuery.value.trim().length > 0)
 <template>
   <main class="home">
     <div class="home-hero">
-      <h1>Wiki</h1>
+      <p class="home-eyebrow">Fan Wiki</p>
+      <h1>Surviving the Game<br>as a Barbarian</h1>
       <p class="home-subtitle">{{ totalArticles }} articles across {{ wikiIndex.categories.length }} categories</p>
     </div>
 
@@ -85,11 +86,21 @@ const isSearching = computed(() => searchQuery.value.trim().length > 0)
   margin-bottom: 2rem;
 }
 
+.home-eyebrow {
+  font-size: 0.8rem;
+  font-family: var(--mono);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 0.5rem;
+}
+
 .home-hero h1 {
   font-size: 2.5rem;
   font-weight: 600;
-  letter-spacing: -0.05em;
-  margin: 0 0 0.4rem;
+  letter-spacing: -0.04em;
+  line-height: 1.15;
+  margin: 0 0 0.6rem;
   color: var(--text-h);
 }
 

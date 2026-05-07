@@ -1,12 +1,12 @@
 import type { ArticleMeta, CategoryNode, WikiIndex } from '@/types/wiki'
 
 export const markdownModules = import.meta.glob<string>(
-  '/src/assets/wiki/**/*.md',
+  '/src/assets/wiki/entities/**/*.md',
   { query: '?raw', import: 'default' },
 )
 
 function filePathToRoute(globKey: string): string {
-  const relative = globKey.replace('/src/assets/wiki/', '').replace(/\.md$/, '')
+  const relative = globKey.replace('/src/assets/wiki/entities/', '').replace(/\.md$/, '')
   return '/wiki/' + relative.split('/').map(encodeURIComponent).join('/')
 }
 
@@ -15,7 +15,7 @@ function buildIndex(): WikiIndex {
   const allArticles: ArticleMeta[] = []
 
   for (const globKey of Object.keys(markdownModules)) {
-    const relative = globKey.replace('/src/assets/wiki/', '').replace(/\.md$/, '')
+    const relative = globKey.replace('/src/assets/wiki/entities/', '').replace(/\.md$/, '')
     const segments = relative.split('/')
 
     if (segments.length < 2) continue
@@ -76,5 +76,5 @@ export const { allArticles } = wikiIndex
 export function routeParamToGlobKey(articlePath: string | string[]): string {
   const path = Array.isArray(articlePath) ? articlePath.join('/') : articlePath
   const decoded = path.split('/').map(decodeURIComponent).join('/')
-  return '/src/assets/wiki/' + decoded + '.md'
+  return '/src/assets/wiki/entities/' + decoded + '.md'
 }
