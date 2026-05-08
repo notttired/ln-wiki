@@ -25,6 +25,11 @@ const isSearching = computed(() => searchQuery.value.trim().length > 0)
       <p class="home-subtitle">{{ totalArticles }} articles across {{ wikiIndex.categories.length }} categories</p>
     </div>
 
+    <RouterLink to="/graph" class="graph-callout">
+      <span class="graph-callout-label">New</span>
+      Explore entity relationships in the interactive <strong>Graph view</strong> →
+    </RouterLink>
+
     <div class="search-bar-wrap">
       <svg class="search-icon" width="16" height="16" viewBox="0 0 16 16" fill="none">
         <circle cx="6.5" cy="6.5" r="4.5" stroke="currentColor" stroke-width="1.5"/>
@@ -108,6 +113,43 @@ const isSearching = computed(() => searchQuery.value.trim().length > 0)
   color: var(--text);
   font-size: 0.95rem;
   margin: 0;
+}
+
+/* Graph callout */
+.graph-callout {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.75rem;
+  padding: 0.875rem 1.125rem;
+  background: var(--accent-bg);
+  border: 1.5px solid var(--accent-border);
+  border-radius: 10px;
+  font-size: 0.925rem;
+  color: var(--text-h);
+  text-decoration: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.15s;
+  max-width: 480px;
+}
+
+.graph-callout:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  background: var(--accent-bg);
+}
+
+.graph-callout-label {
+  font-size: 0.7rem;
+  font-family: var(--mono);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #fff;
+  background: var(--accent);
+  padding: 2px 7px;
+  border-radius: 4px;
+  flex-shrink: 0;
 }
 
 /* Search bar */
